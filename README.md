@@ -1,4 +1,4 @@
-# Data Scientist ![HeadShot](https://github.com/netgvarun2012/portfolio/assets/93938450/e2618fb2-e29a-47bb-a81e-3c78d195c800)
+# Data Scientist![HeadShot](https://github.com/netgvarun2012/portfolio/assets/93938450/e2618fb2-e29a-47bb-a81e-3c78d195c800)
 
 A passionate Software Engineer turned Data Scientist with close to 15 years of work experience.
 
