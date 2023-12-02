@@ -2,14 +2,14 @@
 
 A passionate Software Engineer turned Data Scientist with close to 15 years of work experience.
 
-### Education
+## <ins>Education</ins>
 ![nus_logo_full-horizontal](https://github.com/netgvarun2012/portfolio/assets/93938450/45493d1d-a0cd-42f4-bac2-647adaadc8e3)
 
 - **2023** - Masters in Business Analytics from NUS Singapore (4.4 GPA).
 
 - **2007** - Bachelors in Computer Science Engineering.
 
-### Work Experience
+## <ins>Work Experience</ins>
 
 - **2022-2023** - *NUS Computing & Aboitiz Data Innovation*  
 Worked in NUS Computing as NLP Fellow. Developed music based language learning material in form of **Lyrics Generator** involving Generative AI. Published a paper in ACM Journal. Also, worked in **Aboitiz Data Innovation** as a Data Scientist. Worked on development of Speech and Text based Emotion and Personaloty detector.
@@ -35,7 +35,7 @@ Worked as a Senior Software Engineer in Ness Technologies. Role involved develop
 - **2008-2010** - *Mahindra Satyam*  
 Worked as a Senior Software Engineer in Mahindra Satyam. Role involved development on Oracle Biling and Revenue Management suite. Writing code in C, C++, Python, Shell, Perl to implement requirements for Telecom Billing clients.
 
-### Key Projects
+## <ins>Key Projects</ins>
 1. Area - Deep learning and Speech processing:
 2. Area - Deep learning and NLP:
 3. Area - Deep learning and CV:
@@ -45,7 +45,7 @@ Worked as a Senior Software Engineer in Mahindra Satyam. Role involved developme
 7. Area - Python related:
 8. Area - Telecom Billing related:
    
-### Main Accomplishments
+## <ins>Main Accomplishments</ins>
 ➢ More than a decade overall experience, more than 5 years in Data science.  
 ➢ Winner of Coveted Outstanding Capstone project award at a ceremony held at Marina Bay Sands, Singapore.  
 ➢ Industry experience in NLP and Generative AI, training LLMs like GPT2, GPT-neo and other GenAI models.  
