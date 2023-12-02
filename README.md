@@ -39,13 +39,13 @@ Worked as a Senior Software Engineer in Mahindra Satyam. Role involved developme
    - [MultiModal Speech and Text based Emotions and Personality Recognizer.](https://huggingface.co/spaces/netgvarun2005/VirtualTherapist)
    - [Speaker Diarization and Audio file Separator](https://github.com/netgvarun2012/AudioSeparation)
 3. **Area - Deep learning and NLP:**  
-   - [QA Chatbot](https://github.com/netgvarun2012/QAChatbot)
-   - [Predictive Writing](https://medium.com/@sharmavarun.cs/predictive-writing-using-gpt-transformer-a042d37f7fb3)
-   - [Document Analyzer](https://github.com/netgvarun2012/DocumentAnalyzer)
+   - [QA Chatbot Gen AI project](https://github.com/netgvarun2012/QAChatbot)
+   - [Predictive Writing Gen AI project](https://medium.com/@sharmavarun.cs/predictive-writing-using-gpt-transformer-a042d37f7fb3)
+   - [Document Analyzer Gen AI project](https://github.com/netgvarun2012/DocumentAnalyzer)
    - Grammar Corrector
    - [Essay Grader](https://github.com/netgvarun2012/EssayGrader)
    - Reverse Dictionary
-   - Lyrics Generator
+   - Lyrics Generator Gen AI project
 5. **Area - Deep learning and CV:**  
    - [Automatic detection of formula one cars.](https://github.com/netgvarun2012/F1CarClassificationDL)
 7. **Area - Deep Reinforcement learning:**  
