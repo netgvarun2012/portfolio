@@ -36,7 +36,7 @@ Worked as a Senior Software Engineer in Mahindra Satyam. Role involved developme
 
 ## <ins>Key Projects</ins>
 1. **Area - Deep learning and Speech processing:**  
-   MultiModal Speech and Text based Emotions and Personality Recognizer.
+   - MultiModal Speech and Text based Emotions and Personality Recognizer.
 3. **Area - Deep learning and NLP:**  
    - QA Chatbot
    - Predictive Writing
