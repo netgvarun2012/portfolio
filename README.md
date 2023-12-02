@@ -14,7 +14,7 @@ A passionate Software Engineer turned Data Scientist with close to 15 years of w
 - **2022-2023** - *NUS Computing & Aboitiz Data Innovation*  
 Worked in NUS Computing as NLP Fellow. Developed music based language learning material in form of **Lyrics Generator** involving Generative AI. Published a paper in ACM Journal. Also, worked in **Aboitiz Data Innovation** as a Data Scientist. Worked on development of Speech and Text based Emotion and Personaloty detector.
 
-- **2021-2022** - Textify.AI  
+- **2021-2022** - *Textify.AI*  
 Worked as Senior NLP Data Scientist in a startup called Textify.AI. Worked on developing writing and reading assistant application using cutting edge machine learning and deep learning (NLP) technologies.  Worked on developing features such as:
 1. Precitive Writing achieved by prompt based finetuning of GPT Neo LLM.
 2. Grammar Corrector achieved by finetuning T5 LLM model.
@@ -23,16 +23,16 @@ Worked as Senior NLP Data Scientist in a startup called Textify.AI. Worked on de
   
 Stack : Pytorch, AWS, Flask, Github.
 
-- **2016-2021** - CSG International  
+- **2016-2021** - *CSG International*  
 Worked as an Associate Architect in CSG Internatioanl Systems. Role involved development on CSG's singleview product for large scale telecom operators like MTN South Africa, Three UK, MTC Namibia. Played role of scrum master, architect and developer. Largely worked on C++, Python, java.
 
-- **2013-2016** - Oracle Corporation
+- **2013-2016** - *Oracle Corporation*  
 Worked as a Senior Consultant in Oracle Corp. Role involved development of billing and analytics softwate for large telecom clients. Worked on Machine learning use cases for Telcos such as Churn prediction, Invoice amount anomaly detection, rate plan optimization.
 
-- **2010-2013** Ness Technologies  
+- **2010-2013** - *Ness Technologies*  
 Worked as a Senior Software Engineer in Ness Technologies. Role involved development and supporting of Oracle Biling and Revenue Management product. Writing code in C, C++, Python, Shell, Perl to implement requirements for Telecom Billing clients and handling Production support.
 
-- **2008-2010** Mahindra Satyam  
+- **2008-2010** - *Mahindra Satyam*  
 Worked as a Senior Software Engineer in Mahindra Satyam. Role involved development on Oracle Biling and Revenue Management suite. Writing code in C, C++, Python, Shell, Perl to implement requirements for Telecom Billing clients.
 
 ### Key Projects
