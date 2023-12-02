@@ -37,6 +37,7 @@ Worked as a Senior Software Engineer in Mahindra Satyam. Role involved developme
 ## <ins>Key Projects</ins>
 1. **Area - Deep learning and Speech processing:**  
    - [MultiModal Speech and Text based Emotions and Personality Recognizer.](https://huggingface.co/spaces/netgvarun2005/VirtualTherapist)
+   - [Speaker Diarization and Audio file Separator](https://github.com/netgvarun2012/AudioSeparation)
 3. **Area - Deep learning and NLP:**  
    - [QA Chatbot](https://github.com/netgvarun2012/QAChatbot)
    - [Predictive Writing](https://medium.com/@sharmavarun.cs/predictive-writing-using-gpt-transformer-a042d37f7fb3)
@@ -51,12 +52,16 @@ Worked as a Senior Software Engineer in Mahindra Satyam. Role involved developme
    - [Real-time Stock timing model](https://github.com/netgvarun2012/StockTradingDRL)
 9. **Area - Recommender systems:**  
     - [STEAM games recommender](https://arxiv.org/ftp/arxiv/papers/2305/2305.04890.pdf)
-11. **Area - Machine learning based:**  
+10. **Area - Time Series forecasting:**
+    - [Bitcoin Price Predictor](https://github.com/netgvarun2012/BitCoinPricePredictor)
+12. **Area - Machine learning based:**  
     - [AirBnB usecase](https://github.com/netgvarun2012/Airbnb-analysis)
     - LendingClub bank dataset usecase
     - Telecom Fraud Detection
     - Telecom billing invoice anomaly detector
-13. **Area - Python related:**  
+13. **Area - Big Data Spark based:**
+    - [arXiv-searching-TFIDF](https://github.com/netgvarun2012/arXiv-searching-TFIDF)
+14. **Area - Python related:**  
     - [Piano music performance analyzer](https://github.com/netgvarun2012/PianoAnalysisDeepLearning)
 15. **Area - Telecom Billing related:**  
     - Kafka based stream data processor.
