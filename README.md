@@ -61,6 +61,7 @@ Worked as a Senior Software Engineer in Mahindra Satyam. Role involved developme
     - Telecom billing invoice anomaly detector
 13. **Area - Big Data Spark based:**
     - [arXiv-searching-TFIDF](https://github.com/netgvarun2012/arXiv-searching-TFIDF)
+    - [Amazon reviews finder](https://github.com/netgvarun2012/AmazonReviews)
 14. **Area - Python related:**  
     - [Piano music performance analyzer](https://github.com/netgvarun2012/PianoAnalysisDeepLearning)
 15. **Area - Telecom Billing related:**  
