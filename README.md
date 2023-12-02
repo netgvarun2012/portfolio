@@ -35,32 +35,32 @@ Worked as a Senior Software Engineer in Ness Technologies. Role involved develop
 Worked as a Senior Software Engineer in Mahindra Satyam. Role involved development on Oracle Biling and Revenue Management suite. Writing code in C, C++, Python, Shell, Perl to implement requirements for Telecom Billing clients.
 
 ## <ins>Key Projects</ins>
-1. Area - Deep learning and Speech processing:
-   **MultiModal Speech and Text based Emotions and Personality Recognizer.**
-3. Area - Deep learning and NLP:
-   **QA Chatbot**
-   - **Predictive Writing**
-   - **Document Analyzer**
-   - **Grammar Corrector**
-   - **Essay Grader**
-   - **Reverse Dictionary**
-   - **Lyrics Generator**
-5. Area - Deep learning and CV:
-   - **Automatic detection of formula one cars**.
-7. Area - Deep Reinforcement learning:
-   - **Real-time Stock timing model**
-9. Area - Recommender systems:
-    - **STEAM games recommender**
-11. Area - Machine learning based:
-    - **AirBnB usecase**
-    - **LendingClub bank dataset usecase**
-    - **Telecom Fraud Detection**
-    - **Telecom billing invoice anomaly detector**
-13. Area - Python related:
-    - **Piano music performance analyzer.
-15. Area - Telecom Billing related:
-    - **Kafka based stream data processor.**
-    - **Production scripts**
+1. **Area - Deep learning and Speech processing:**  
+   MultiModal Speech and Text based Emotions and Personality Recognizer.
+3. **Area - Deep learning and NLP:**  
+   - QA Chatbot
+   - Predictive Writing
+   - Document Analyzer
+   - Grammar Corrector
+   - Essay Grader
+   - Reverse Dictionary
+   - Lyrics Generator
+5. **Area - Deep learning and CV:**  
+   - Automatic detection of formula one cars.
+7. **Area - Deep Reinforcement learning:**  
+   - Real-time Stock timing model
+9. **Area - Recommender systems:**  
+    - STEAM games recommender
+11. **Area - Machine learning based:**  
+    - AirBnB usecase
+    - LendingClub bank dataset usecase
+    - Telecom Fraud Detection
+    - Telecom billing invoice anomaly detector
+13. **Area - Python related:**  
+    - Piano music performance analyzer.
+15. **Area - Telecom Billing related:**  
+    - Kafka based stream data processor.
+    - Production scripts
     
    
 ## <ins>Main Accomplishments</ins>
