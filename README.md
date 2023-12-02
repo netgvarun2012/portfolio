@@ -69,7 +69,7 @@ Worked as a Senior Software Engineer in Mahindra Satyam. Role involved developme
 ➢ Industry experience in NLP and Generative AI, training LLMs like GPT2, GPT-neo and other GenAI models.  
 ➢ Co-authored and submitted research papers:
   - “KeYric: Unsupervised Keywords Extraction and Expansion from Music for Coherent Lyric Generation” ACM Multimedia Conference in 2023.
-  - “Steam Recommendation System using Pyspark and Big data platforms” ArXiv in 2023.    
+  - “Steam Recommendation System using Pyspark and Big data platforms” ArXiv in 2023.  
 ➢ NUS-Huawei Innovation Challenge (Finalists) – selected as top 5 teams out of 104 total teams (across Singapore).  
 ➢ Experience in working as part of 8 end-to-end large-scale data-intensive client projects involving production deployments.  
 ➢ Kaggle 1X Expert Tier (In top 1%).  
