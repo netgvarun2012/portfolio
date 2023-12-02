@@ -6,7 +6,7 @@ A passionate Software Engineer turned Data Scientist with close to 15 years of w
 ![nus_logo_full-horizontal](https://github.com/netgvarun2012/portfolio/assets/93938450/45493d1d-a0cd-42f4-bac2-647adaadc8e3)  
 - **2023** - Masters in Business Analytics from NUS Singapore (4.4 GPA).
 
-- **2007** - Bachelors in Computer Science Engineering.
+- **2007** - Bachelors in Computer Science Engineering (73%).
 
 ## <ins>Work Experience</ins>
 
@@ -36,13 +36,32 @@ Worked as a Senior Software Engineer in Mahindra Satyam. Role involved developme
 
 ## <ins>Key Projects</ins>
 1. Area - Deep learning and Speech processing:
-2. Area - Deep learning and NLP:
-3. Area - Deep learning and CV:
-4. Area - Deep Reinforcement learning:
-5. Area - Recommender systems:
-6. Area - Machine learning based:
-7. Area - Python related:
-8. Area - Telecom Billing related:
+   **MultiModal Speech and Text based Emotions and Personality Recognizer.**
+3. Area - Deep learning and NLP:
+   **QA Chatbot**
+   - **Predictive Writing**
+   - **Document Analyzer**
+   - **Grammar Corrector**
+   - **Essay Grader**
+   - **Reverse Dictionary**
+   - **Lyrics Generator**
+5. Area - Deep learning and CV:
+   - **Automatic detection of formula one cars**.
+7. Area - Deep Reinforcement learning:
+   - **Real-time Stock timing model**
+9. Area - Recommender systems:
+    - **STEAM games recommender**
+11. Area - Machine learning based:
+    - **AirBnB usecase**
+    - **LendingClub bank dataset usecase**
+    - **Telecom Fraud Detection**
+    - **Telecom billing invoice anomaly detector**
+13. Area - Python related:
+    - **Piano music performance analyzer.
+15. Area - Telecom Billing related:
+    - **Kafka based stream data processor.**
+    - **Production scripts**
+    
    
 ## <ins>Main Accomplishments</ins>
 ➢ More than a decade overall experience, more than 5 years in Data science.  
