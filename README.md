@@ -20,7 +20,7 @@ Worked as Senior NLP Data Scientist in a startup called Textify.AI. Worked on de
 3. Essay Grader using deep learning techniques.
 4. Reverse Dictionary using deep learning involving LSTM and RNNs.
   
-Stack : Pytorch, AWS, Flask, Github.
+  Stack : Pytorch, AWS, Flask, Github.
 
 - **2016-2021** - *CSG International*  
 Worked as an Associate Architect in CSG Internatioanl Systems. Role involved development on CSG's singleview product for large scale telecom operators like MTN South Africa, Three UK, MTC Namibia. Played role of scrum master, architect and developer. Largely worked on C++, Python, java.
