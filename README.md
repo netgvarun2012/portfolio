@@ -11,7 +11,7 @@ A passionate Software Engineer turned Data Scientist with close to 15 years of w
 
 ### Work Experience
 
-- **2022-2023** **NUS Computing & Aboitiz Data Innovation**
+- **2022-2023** *NUS Computing & Aboitiz Data Innovation*  
 Worked in NUS Computing as NLP Fellow. Developed music based language learning material in form of **Lyrics Generator** involving Generative AI. Published a paper in ACM Journal. Also, worked in **Aboitiz Data Innovation** as a Data Scientist. Worked on development of Speech and Text based Emotion and Personaloty detector.
 
 - **2021-2022** Worked as Senior NLP Data Scientist in a startup called Textify.AI. Worked on developing writing and reading assistant application using cutting edge machine learning and deep learning (NLP) technologies.  Worked on developing features such as:
