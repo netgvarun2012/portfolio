@@ -36,28 +36,28 @@ Worked as a Senior Software Engineer in Mahindra Satyam. Role involved developme
 
 ## <ins>Key Projects</ins>
 1. **Area - Deep learning and Speech processing:**  
-   - (MultiModal Speech and Text based Emotions and Personality Recognizer.)[https://huggingface.co/spaces/netgvarun2005/VirtualTherapist]
+   - [MultiModal Speech and Text based Emotions and Personality Recognizer.](https://huggingface.co/spaces/netgvarun2005/VirtualTherapist)
 3. **Area - Deep learning and NLP:**  
-   - (QA Chatbot)[https://github.com/netgvarun2012/QAChatbot]
-   - (Predictive Writing)[https://medium.com/@sharmavarun.cs/predictive-writing-using-gpt-transformer-a042d37f7fb3]
-   - (Document Analyzer)[https://github.com/netgvarun2012/DocumentAnalyzer]
+   - [QA Chatbot](https://github.com/netgvarun2012/QAChatbot)
+   - [Predictive Writing](https://medium.com/@sharmavarun.cs/predictive-writing-using-gpt-transformer-a042d37f7fb3)
+   - [Document Analyzer](https://github.com/netgvarun2012/DocumentAnalyzer)
    - Grammar Corrector
-   - (Essay Grader)[https://github.com/netgvarun2012/EssayGrader]
+   - [Essay Grader](https://github.com/netgvarun2012/EssayGrader)
    - Reverse Dictionary
    - Lyrics Generator
 5. **Area - Deep learning and CV:**  
-   - (Automatic detection of formula one cars.)[https://github.com/netgvarun2012/F1CarClassificationDL]
+   - [Automatic detection of formula one cars.](https://github.com/netgvarun2012/F1CarClassificationDL)
 7. **Area - Deep Reinforcement learning:**  
-   - Real-time Stock timing model
+   - [Real-time Stock timing model](https://github.com/netgvarun2012/StockTradingDRL)
 9. **Area - Recommender systems:**  
-    - STEAM games recommender
+    - [STEAM games recommender](https://arxiv.org/ftp/arxiv/papers/2305/2305.04890.pdf)
 11. **Area - Machine learning based:**  
-    - AirBnB usecase
+    - [AirBnB usecase](https://github.com/netgvarun2012/Airbnb-analysis)
     - LendingClub bank dataset usecase
     - Telecom Fraud Detection
     - Telecom billing invoice anomaly detector
 13. **Area - Python related:**  
-    - Piano music performance analyzer.
+    - [Piano music performance analyzer](https://github.com/netgvarun2012/PianoAnalysisDeepLearning)
 15. **Area - Telecom Billing related:**  
     - Kafka based stream data processor.
     - Production scripts
