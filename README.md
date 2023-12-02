@@ -1,6 +1,6 @@
 # Data Scientist 
 
-A passionate Software Engineer turned Data Scientist with close to 15 years of work experience.
+#### A passionate Software Engineer turned Data Scientist with close to 15 years of work experience.
 
 ## <ins>Education</ins>
 ![nus_logo_full-horizontal](https://github.com/netgvarun2012/portfolio/assets/93938450/45493d1d-a0cd-42f4-bac2-647adaadc8e3)  
@@ -87,4 +87,4 @@ Worked as a Senior Software Engineer in Mahindra Satyam. Role involved developme
 2. [Convolitions in CNN](https://www.linkedin.com/feed/update/urn:li:activity:7077631328346673152/)
 3. [Predictive Writing](https://www.linkedin.com/posts/sharmavaruncs_predictive-writing-using-gpt-transformer-activity-6955527056147324929-EaSp?utm_source=share&utm_medium=member_desktop)
 4. [LLM technical aspects](https://www.linkedin.com/posts/sharmavaruncs_demystifying-language-models-activity-6953751564855508992-7rI-?utm_source=share&utm_medium=member_desktop)
-5. 
+5. [Big Data Processing using Pyspark](https://medium.com/@sharmavarun.cs/power-of-tf-idf-demonstrated-using-pyspark-on-arxiv-dataset-6e12d27c0692)
