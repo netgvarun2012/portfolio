@@ -25,8 +25,8 @@ The combination of the above properties leads to data sparseness. e way in wh
   3. Language is compositional.
   4. Language is ambiguous and often consists of variable number of inputs.
 
-#### Solution
-When embedding words, they transform from being isolated distinct symbols into mathematical objects that can be operated on.
+#### Solution:
+When embedding words, they transform from being isolated distinct symbols into mathematical objects that can be operated on. This capability alleviates to some extent the **discreteness and data-sparsity** problems.
 
 # AI Basics <a id="AIBasics"></a>
 
