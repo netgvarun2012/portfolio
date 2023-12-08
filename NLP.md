@@ -1,0 +1,1 @@
+# NLP is a specialized area in AI that exclusively deals with processing of Natural language including understanding, generating text such as individual characters, words, paragraphs, documents such as whole of Wikipedia. 
