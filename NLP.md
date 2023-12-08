@@ -25,8 +25,10 @@ The combination of the above properties leads to data sparseness. e way in wh
   3. Language is compositional.
   4. Language is ambiguous and often consists of variable number of inputs.
 
-#### Solution:
-When embedding words, they transform from being isolated distinct symbols into mathematical objects that can be operated on. This capability alleviates to some extent the **discreteness and data-sparsity** problems.
+#### Solution - Neural Networks with an Embedding layer: 
+
+- Major component in neural networks for language is the use of an embedding layer, a mapping of discrete symbols to continuous vectors in a relatively low dimensional space.
+- When embedding words, they transform from being isolated distinct symbols into mathematical objects that can be operated on. This capability alleviates to some extent the **discreteness and data-sparsity** problems.
 
 # AI Basics <a id="AIBasics"></a>
 
