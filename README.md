@@ -35,10 +35,10 @@ Worked as a Senior Software Engineer in Ness Technologies. Role involved develop
 Worked as a Senior Software Engineer in Mahindra Satyam. Role involved development on Oracle Biling and Revenue Management suite. Writing code in C, C++, Python, Shell, Perl to implement requirements for Telecom Billing clients.
 
 ## <ins>Key Projects</ins>
-1. **Area - Deep learning and Speech processing:**  
+1. **Area - [Deep learning](NNetworks.md) and Speech processing:**  
    - [MultiModal Speech and Text based Emotions and Personality Recognizer.](https://huggingface.co/spaces/netgvarun2005/VirtualTherapist)
    - [Speaker Diarization and Audio file Separator](https://github.com/netgvarun2012/AudioSeparation)
-3. **Area - Deep learning and [NLP](NLP.md):**  
+3. **Area - [Deep learning](NNetworks.md) and [NLP](NLP.md):**  
    - [QA Chatbot Gen AI project](https://github.com/netgvarun2012/QAChatbot)
    - [Predictive Writing Gen AI project](https://medium.com/@sharmavarun.cs/predictive-writing-using-gpt-transformer-a042d37f7fb3)
    - [Document Analyzer Gen AI project](https://github.com/netgvarun2012/DocumentAnalyzer)
@@ -46,7 +46,7 @@ Worked as a Senior Software Engineer in Mahindra Satyam. Role involved developme
    - [Essay Grader](https://github.com/netgvarun2012/EssayGrader)
    - Reverse Dictionary
    - Lyrics Generator Gen AI project
-5. **Area - Deep learning and CV:**  
+5. **Area - [Deep learning](NNetworks.md) and CV:**  
    - [Automatic detection of formula one cars.](https://github.com/netgvarun2012/F1CarClassificationDL)
 7. **Area - Deep Reinforcement learning:**  
    - [Real-time Stock timing model](https://github.com/netgvarun2012/StockTradingDRL)
