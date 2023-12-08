@@ -38,7 +38,7 @@ Worked as a Senior Software Engineer in Mahindra Satyam. Role involved developme
 1. **Area - Deep learning and Speech processing:**  
    - [MultiModal Speech and Text based Emotions and Personality Recognizer.](https://huggingface.co/spaces/netgvarun2005/VirtualTherapist)
    - [Speaker Diarization and Audio file Separator](https://github.com/netgvarun2012/AudioSeparation)
-3. **Area - Deep learning and NLP:**  
+3. **Area - Deep learning and [NLP](NLP.md):**  
    - [QA Chatbot Gen AI project](https://github.com/netgvarun2012/QAChatbot)
    - [Predictive Writing Gen AI project](https://medium.com/@sharmavarun.cs/predictive-writing-using-gpt-transformer-a042d37f7fb3)
    - [Document Analyzer Gen AI project](https://github.com/netgvarun2012/DocumentAnalyzer)
