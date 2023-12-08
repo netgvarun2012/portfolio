@@ -15,11 +15,18 @@ Language is **symbolic and discrete**. Both characters and words are discrete sy
 
 While in Computer Vision (CV) or Speech Processing, basic building blocks are continuous in nature, allowing, for exanple, to move from a colorful image  to a gray-scale one using a simple mathematical operation, or to compare two different colors based on their inherent properties such as hue and intensity. This can not be done easily with words - *there is no simple operation that will allow us to move from the word "red" to the word "pink" without using a large lookup table or dictionary*.
 
+Language is also compositional: letters form words, and words form phrases and sentences. In order to interpret a text, we thus need to work beyond the level of letters and words, and look at long sequences of words such as sentences, or even complete documents.
+
+The combination of the above properties leads to data sparseness. e way in which words (discrete symbols) can be combined to form meanings is practically infinite. e number of possible valid sentences is tremendous: we could never hope to enumerate all of them. 
+
 #### Challenges for computational approaches when dealing with NLP:
   1. Language is discrete.
   2. Language is sparse.
   3. Language is compositional.
   4. Language is ambiguous and often consists of variable number of inputs.
+
+#### Solution
+When embedding words, they transform from being isolated distinct symbols into mathematical objects that can be operated on.
 
 # AI Basics <a id="AIBasics"></a>
 
