@@ -25,6 +25,8 @@ The combination of the above properties leads to data sparseness. e way in wh
   3. Language is compositional.
   4. Language is ambiguous and often consists of variable number of inputs.
 
+# *Converting discrete words into continuous numeric representation*
+
 #### Solution - [Neural Networks](NNetwork.md) with an Embedding layer: 
 
 - Major component in neural networks for language is the use of an embedding layer, a mapping of discrete symbols to continuous vectors in a relatively low dimensional space.
