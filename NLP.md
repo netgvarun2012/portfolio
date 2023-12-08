@@ -15,6 +15,12 @@ Language is **symbolic and discrete**. Both characters and words are discrete sy
 
 While in Computer Vision (CV) or Speech Processing, basic building blocks are continuous in nature, allowing, for exanple, to move from a colorful image  to a gray-scale one using a simple mathematical operation, or to compare two different colors based on their inherent properties such as hue and intensity. This can not be done easily with words - *there is no simple operation that will allow us to move from the word "red" to the word "pink" without using a large lookup table or dictionary*.
 
+#### Challenges for computational approaches when dealing with NLP:
+  1. Language is discrete.
+  2. Language is sparse.
+  3. Language is compositional.
+  4. Language is ambiguous and often consists of variable number of inputs.
+
 # AI Basics <a id="AIBasics"></a>
 
 The above diagram captures the main steps and the flow of the process:
