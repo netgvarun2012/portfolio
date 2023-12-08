@@ -33,10 +33,14 @@ The combination of the above properties leads to data sparseness. e way in wh
 - When embedding words, they transform from being isolated distinct symbols into mathematical objects that can be operated on. This capability alleviates to some extent the **discreteness and data-sparsity** problems.
 
 Before understanding the *embedding* concept, it is key to understand various pre-dating concepts to represent the discrete language into continuous numerical vector that can also help in reflecting various linguistic properties of the text in form of feature vector:
-- Bag of words: This technique represents text by counting the frequency of words in a document, without considering the order or structure of the words. Each document is represented as a vector where each dimension corresponds to a unique word, and the value in each dimension represents the frequency of that word in the document.
-- TF-IDF:TF-IDF is another representation technique that weighs the importance of words in a document relative to a collection of documents (corpus). It considers term frequency within a document and the inverse document frequency across the entire corpus to assign weights to words.
-- One-hot-Encoding: ****
-- Embeddings:
+- **Bag of words**: This technique represents text by counting the frequency of words in a document, without considering the order or structure of the words. Each document is represented as a vector where each dimension corresponds to a unique word, and the value in each dimension represents the frequency of that word in the document.
+- **TF-IDF**:TF-IDF is another representation technique that weighs the importance of words in a document relative to a collection of documents (corpus). It considers term frequency within a document and the inverse document frequency across the entire corpus to assign weights to words.
+- **N-grams**: Besides words, one may also look at consecutive pairs or triplets of words. These are called ngrams.
+- **Lemma**: The lemma of a word can be ambiguous, and lemmatizing is more accurate when the word is given in context.
+- **Stemming**: A stemmer maps sequences of words to shorter sequences, based on some language-specific heuristics, such that different inflections will map to the same sequence.
+- **One-hot-Encoding**: Each dimension corresponds to a unique feature and the resulting feature vector can be thought of as a combination of high-dimensional indicator vectors in which a single dimension has a value of 1 and all others have a value of 0.
+
+- **Embeddings**:
 
 # AI Basics <a id="AIBasics"></a>
 
