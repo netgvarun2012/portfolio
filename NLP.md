@@ -32,6 +32,12 @@ The combination of the above properties leads to data sparseness. e way in wh
 - Major component in neural networks for language is the use of an embedding layer, a mapping of discrete symbols to continuous vectors in a relatively low dimensional space.
 - When embedding words, they transform from being isolated distinct symbols into mathematical objects that can be operated on. This capability alleviates to some extent the **discreteness and data-sparsity** problems.
 
+Before understanding the *embedding* concept, it is key to understand various pre-dating concepts like:
+- Bag of words:
+- TF-IDF:
+- One-hot-Encoding:
+- Embeddings:
+
 # AI Basics <a id="AIBasics"></a>
 
 The above diagram captures the main steps and the flow of the process:
