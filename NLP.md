@@ -25,7 +25,7 @@ The combination of the above properties leads to data sparseness. e way in wh
   3. Language is compositional.
   4. Language is ambiguous and often consists of variable number of inputs.
 
-# *Converting discrete words into continuous numeric representation*
+###  *Main idea is to convert discrete words into continuous numeric representation*
 
 #### Solution - [Neural Networks](NNetwork.md) with an Embedding layer: 
 
