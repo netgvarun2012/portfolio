@@ -10,7 +10,7 @@ While all of machine learning can be characterized as learning to make predictio
 - The Canonical way is to take the 2<sup>nd</sup> order derivative of function and equate it to Zero.
 - However, it is not straightforward to obtain this value for a *multiVariate* complex function, instead an **algebric** way is often employed:
   -  Take first order derivative of the function f<sup>'</sup>(x).
-  -  Assume a value of 'x', x<sub>i</sub> such that u=f'(x)
+  -  Assume a value of 'x', x<sub>i</sub> such that u=f'(x<sub>i</sub>)
   -  If u=0, then 'x<sub>i</sub>' is the minimum value and an optimum point. So, STOP.
   -  Else, move in opposite direction of 'u' by updating:
      -    x<sub>i+1</sub> = x<sub>i</sub> - n(u), where 'n' is a *rate parameter*.
