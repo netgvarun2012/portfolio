@@ -48,6 +48,13 @@ Before understanding the *embedding* concept, it is key to understand various pr
    ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/04115cc3-ed9e-4d0f-8e07-93e5c74b7a7e)
 
 - **Embeddings**:
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/42801c45-bc3d-42d6-b72c-93d1470d3b1d)
+
+- Each core feature is embedded into a ‘d’ dimensional space and represented as a vector in that space.
+- The dimension ‘d’ is usually much smaller than the number of features, i.e., each item in a vocabulary of 40,000 items (encoded as 40,000-dimensional one-hot vectors) can be represented as a 100 or 200-dimensional vector.
+- The embeddings (the vector representation of each core feature) are treated as parameters of the network and are trained like the other parameters of the function f.
+  
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/b6c81d6a-d33c-44d5-8c25-7d6fd0ce604c)
 
 # AI Basics <a id="AIBasics"></a>
 
