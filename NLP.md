@@ -140,17 +140,18 @@ So, in this setup, the one-hot encoding step is skipped, and words are directly 
 model_name = 'bert-base-uncased'
 tokenizer = BertTokenizer.from_pretrained(model_name)
 model = BertForSequenceClassification.from_pretrained(model_name, num_labels=num_labels)
+```
 
 When you load a pre-trained BERT model, it includes several components:
 
-**Embedding Layer**: This is the first layer of the model, and it’s responsible for converting input tokens into vectors. This layer includes pre-trained embeddings for each token in the BERT tokenizer’s vocabulary.
+1. <ins>**Embedding Layer**</ins>: This is the first layer of the model, and it’s responsible for converting input tokens into vectors. This layer includes pre-trained embeddings for each token in the BERT tokenizer’s vocabulary.
 
-**Transformer Layers**: These are the main body of the model. They take the vectors from the embedding layer and transform them through a series of self-attention mechanisms and feed-forward networks. The weights in these layers are also pre-trained.
+2. <ins>**Transformer Layers**</ins>: These are the main body of the model. They take the vectors from the embedding layer and transform them through a series of self-attention mechanisms and feed-forward networks. The weights in these layers are also pre-trained.
 
-**Classification Layer**: This is the final layer of the model, and it’s responsible for making predictions based on the output of the Transformer layers. In the BertForSequenceClassification model, this is a simple linear layer that outputs a logit for each class in your classification task.
+3. <ins>**Classification Layer**</ins>: This is the final layer of the model, and it’s responsible for making predictions based on the output of the Transformer layers. In the BertForSequenceClassification model, this is a simple linear layer that outputs a logit for each class in your classification task.
 
 So, when you load a pre-trained BERT model, you’re actually loading pre-trained embeddings along with pre-trained Transformer layers. These components are then fine-tuned on your specific task (sentiment analysis in this case).
-```
+
 
 # AI Basics <a id="AIBasics"></a>
 
