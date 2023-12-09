@@ -66,6 +66,8 @@ Before understanding the *embedding* concept, it is key to understand various pr
 
   We thus need to represent an unbounded number of features using a fixed-size vector. One way of achieving this is through a so-called continuous bag of words (CBOW ) representation.
 
+  ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/dd87ee1e-5a15-4a17-9148-edfbecbf8f29)
+
 
 # AI Basics <a id="AIBasics"></a>
 
