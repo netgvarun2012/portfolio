@@ -47,6 +47,8 @@ Before understanding the *embedding* concept, it is key to understand various pr
    - Dimensionality is very high.
    ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/04115cc3-ed9e-4d0f-8e07-93e5c74b7a7e)
 
+
+
 - **Embeddings**:
 ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/42801c45-bc3d-42d6-b72c-93d1470d3b1d)
 
