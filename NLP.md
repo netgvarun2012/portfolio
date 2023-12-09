@@ -70,7 +70,8 @@ Before understanding the *embedding* concept, it is key to understand various pr
 
   ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/f3643bc9-0222-403a-8944-df8e6dc23ab4)
 
-
+   #### FineTuning of Pre-trained Embedding matrix for the task:
+   - Consider an embedding matrix E ∈ R<sup>|V|xd</sup>
 
 # AI Basics <a id="AIBasics"></a>
 
