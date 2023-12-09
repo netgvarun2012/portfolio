@@ -94,7 +94,17 @@ Before understanding the *embedding* concept, it is key to understand various pr
 
 *<ins>In the case of Word2Vec, the model learns word embeddings from scratch. It doesn’t start with pre-existing word embeddings. Instead, it initializes with random vectors and then adjusts these vectors to minimize the prediction error in its task (either predicting the context words given a target word for Skip-Gram, or predicting the target word given the context words for CBOW).</ins>*
 
+#### How to use pre-trained embeddings for **Sentiment Analysis** task?
 
+Pre-trained word embeddings can be very useful for a sentiment analysis task. Here’s a general approach:
+
+1. <ins>**Prepare your data**</ins>: For sentiment analysis, you’ll typically have a dataset of text samples and their corresponding sentiment labels. First, you’ll need to preprocess your text data by tokenizing the text into words, handling punctuation, and so forth.
+
+2. <ins>**Convert words to vectors**</ins>: Next, for each word in your text data, you’ll look up its corresponding vector in the pre-trained word embeddings. This will give you a sequence of vectors for each text sample.
+
+3. <ins>**Aggregate the vectors**</ins>: Since your model will likely require a fixed-size input, you’ll need to convert your sequence of vectors into a single vector. A common way to do this is by **averaging all the vectors together**, but there are also other methods like using **RNNs, LSTMs, or Transformers**.
+
+4. <ins>**Train your model**</ins>: Now that your text data is represented as fixed-size vectors, you can input these vectors into your model. You’ll train your model to predict the sentiment label given the input vector.
 
 # AI Basics <a id="AIBasics"></a>
 
