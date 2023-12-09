@@ -94,7 +94,7 @@ Before understanding the *embedding* concept, it is key to understand various pr
 
 *<ins>In the case of Word2Vec, the model learns word embeddings from scratch. It doesn’t start with pre-existing word embeddings. Instead, it initializes with random vectors and then adjusts these vectors to minimize the prediction error in its task (either predicting the context words given a target word for Skip-Gram, or predicting the target word given the context words for CBOW).</ins>*
 
-#### How to use pre-trained embeddings for **Sentiment Analysis** task?
+#### <ins>How to use pre-trained embeddings for **Sentiment Analysis** task? (w/o embedding layer)</ins>
 
 Pre-trained word embeddings can be very useful for a sentiment analysis task. Here’s a general approach:
 
@@ -105,6 +105,20 @@ Pre-trained word embeddings can be very useful for a sentiment analysis task. He
 3. <ins>**Aggregate the vectors**</ins>: Since your model will likely require a fixed-size input, you’ll need to convert your sequence of vectors into a single vector. A common way to do this is by **averaging all the vectors together**, but there are also other methods like using **RNNs, LSTMs, or Transformers**.
 
 4. <ins>**Train your model**</ins>: Now that your text data is represented as fixed-size vectors, you can input these vectors into your model. You’ll train your model to predict the sentiment label given the input vector.
+
+#### <ins>How to use pre-trained embeddings for **Sentiment Analysis** task? (with embedding layer)</ins>
+
+When you have an embedding layer as part of your model, the input to the model is typically the integer-encoded representation of your text data, not the one-hot encoded vectors.
+
+Here’s how it works:
+
+1. <ins>**Tokenization**</ins>: You first convert your text data into a list of tokens (words).
+
+2. <ins>**Integer Encoding**</ins>: Each unique token (word) in your text data is assigned a unique integer. This process creates a dictionary that maps words to integers. You then use this dictionary to convert your list of tokens into a list of integers.
+
+3. <ins>**Input to Embedding Layer**</ins>: These integer-encoded tokens are then fed into the embedding layer of the model. The embedding layer uses these integers to look up the embedding vector for each word.
+
+So, in this setup, the one-hot encoding step is skipped, and words are directly mapped to their integer indices. These indices are used to look up the embeddings in the embedding layer.
 
 # AI Basics <a id="AIBasics"></a>
 
