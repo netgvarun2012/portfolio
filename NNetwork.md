@@ -14,3 +14,19 @@ While all of machine learning can be characterized as learning to make predictio
   -  If u=0, then 'x<sub>i</sub>' is the minimum value and an optimum point. So, STOP.
   -  Else, move in opposite direction of 'u' by updating:
      -    x<sub>i+1</sub> = x<sub>i</sub> - n(u), where 'n' is a *rate parameter*.
+
+
+# <ins>Applying the *Gradient Descent* based optimization method to Neural Networks training:</ins>
+- In order for the network to learn i.e. minimize the LOSS function, the loss function needs to be chosen cleverly so that the objective of the classification/regressions task (learning the true distribution of the data) is met.
+- The function is actually a representation of a multi-layered network (along with the bias term and non-linear activations) and minimization happens as per the gradient descent algorithm:
+  1. Parameter values are randomly initialized.
+  2. The **Gradient** of the loss function is taken.
+  3. Parameter values are plugged in (2) i.e. gradient of the loss function.
+  4. Values thus obtained from (3) are subtracted from (1)
+  5. Repeat.
+ 
+  ## <ins>Perceptron Gradient Descent</ins>
+  The method is based on minimizing the error between the actual and desired response at any training step.
+  We want to find the augmented weight vector, **w**, that minimizes the *mean squared error (MSE)* between the desired and actual responses of the perceptron.
+  The function should be differentiable and have a unique minimum such as below:
+                  <img width="146" alt="image" src="https://github.com/netgvarun2012/portfolio/assets/93938450/dec6a3ce-7ee8-4aa1-a066-63d852c82741">
