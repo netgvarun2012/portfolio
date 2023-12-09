@@ -50,7 +50,7 @@ Before understanding the *embedding* concept, it is key to understand various pr
 
 
 - **Embeddings**:
-  *Basic idea is that "words should be encoded into a low-dimensional and dense vector*
+  *<ins>Basic idea is that "words should be encoded into a low-dimensional and dense vector"</ins>*
 
     ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/42801c45-bc3d-42d6-b72c-93d1470d3b1d)
 
