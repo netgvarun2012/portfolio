@@ -25,9 +25,26 @@ While all of machine learning can be characterized as learning to make predictio
   4. Values thus obtained from (3) are subtracted from (1)
   5. Repeat.
  
-  ## <ins>Perceptron Gradient Descent</ins>
+  ## <ins>More formal series of steps</ins>
   The method is based on minimizing the error between the actual and desired response at any training step.
   We want to find the augmented weight vector, **w**, that minimizes the *mean squared error (MSE)* between the desired and actual responses of the perceptron.
   The function should be differentiable and have a unique minimum such as below:
   
   <img width="146" alt="image" src="https://github.com/netgvarun2012/portfolio/assets/93938450/dec6a3ce-7ee8-4aa1-a066-63d852c82741">
+
+  We find the minima of E(w) using an iterative gradient descent algorithm i.e. **computing the gradients of the weights in the hidden nodes.**
+  We want to move "*w*" incrementally so *E(w)* approaches a minimum, which implies that *E* should stop changing i.e. **∂E(w)/∂w=0**.
+
+  While computing the LOSS function, the **forward pass** is required.
+
+  1) **Parameter Initialization**: The weights and biases of the network are randomly initialized.
+
+  2) **Forward Pass (Compute the Predictions)**: The input data is passed through the network. Each layer of the network applies its weights and biases to the inputs and passes them through an activation function. The final output of this process is the network’s prediction.
+
+  3) **Compute the Loss**: The loss function is computed based on the network’s prediction and the actual target values. This loss represents how well (or poorly) the network is performing.
+
+  4) **Backward Pass (Compute the Gradients)**: The gradient of the loss function with respect to the weights and biases is computed. This involves applying the chain rule to propagate gradients back through the network’s layers. This is where the term “backpropagation” comes from.
+
+  5) **Update the Parameters**: The weights and biases are updated in the opposite direction of the computed gradients to minimize the loss. This is done using an optimization algorithm like gradient descent.
+
+  6) **Repeat**: Steps 2-5 are repeated until the network’s performance is satisfactory.
