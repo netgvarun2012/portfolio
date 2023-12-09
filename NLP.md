@@ -74,6 +74,16 @@ Before understanding the *embedding* concept, it is key to understand various pr
    #### FineTuning of Pre-trained Embedding matrix for the task:
    - Consider an embedding matrix E ∈ R<sup>|V|xd</sup> associating words from vocabulary V with d-dimensional vectors. *"A common approach would be to treat **E** as model parameters, and change it with rest of the network."*
 
+   #### How these **"pre-trained embeddings"** are obtained?
+   - Given a training corpus, we prepare a list of N (input_word, output_word).
+  - Objective Function: Maximize probability of all the output words given the corresponding input words.
+  - This method is called **word2vec**.
+  - Usually 2 **word2vec** approaches are common:
+        - SkipGram : Given a specific word, predict its nearby word (probability output).
+        - CBOW : Given a context, predict its target word.
+    
+   
+
 # AI Basics <a id="AIBasics"></a>
 
 The above diagram captures the main steps and the flow of the process:
