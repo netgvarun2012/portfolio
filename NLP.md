@@ -102,7 +102,7 @@ Pre-trained word embeddings can be very useful for a sentiment analysis task. He
 
 2. <ins>**Convert words to vectors**</ins>: Next, for each word in your text data, you’ll look up its corresponding vector in the pre-trained word embeddings. This will give you a sequence of vectors for each text sample.
 
-3. <ins>**Aggregate the vectors**</ins>: Since your model will likely require a fixed-size input, you’ll need to convert your sequence of vectors into a single vector. A common way to do this is by **averaging all the vectors together**, but there are also other methods like using **RNNs, LSTMs, or Transformers**.
+3. <ins>**Aggregate the vectors**</ins>: Since your model will likely require a fixed-size input, you’ll need to convert your sequence of vectors into a single vector. A common way to do this is by **averaging all the vectors together**, but there are also other methods like using **[RNNs, LSTMs](NNetwork.md), or [Transformers](transformers.md)**.
 
 4. <ins>**Train your model**</ins>: Now that your text data is represented as fixed-size vectors, you can input these vectors into your model. You’ll train your model to predict the sentiment label given the input vector.
 
