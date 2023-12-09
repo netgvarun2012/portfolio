@@ -82,7 +82,19 @@ Before understanding the *embedding* concept, it is key to understand various pr
         - SkipGram : Given a specific word, predict its nearby word (probability output).
         - CBOW : Given a context, predict its target word.
     
-   
+   Here’s how it works:
+
+   1. Initialize the Embedding Layer: The weights of the embedding layer are initialized with the pre-trained word embeddings. This means that, initially, the embedded representation of a word is its pre-trained word vector.
+
+   2. Forward Propagation: During training, each word in the input data is represented as a one-hot vector. This one-hot vector is input to the embedding layer, which uses it to look up the corresponding embedded    representation in the embedding matrix. This embedded representation is then passed through the rest of the network.
+
+  3. Backward Propagation and Weight Update: The network makes a prediction, and this is compared to the true output. The difference between the predicted and true output is calculated using a loss function. This loss is then back-propagated through the network to update the weights. The weights in the embedding layer (i.e., the word embeddings) are updated in this process.
+
+  4. Iterate: Steps 2 and 3 are repeated for each batch of data. Over multiple iterations (epochs), the model learns to adjust the weights of the embeddings along with the weights of the other layers in the network to minimize the loss function.
+
+*<ins>In the case of Word2Vec, the model learns word embeddings from scratch. It doesn’t start with pre-existing word embeddings. Instead, it initializes with random vectors and then adjusts these vectors to minimize the prediction error in its task (either predicting the context words given a target word for Skip-Gram, or predicting the target word given the context words for CBOW).</ins>*
+
+
 
 # AI Basics <a id="AIBasics"></a>
 
