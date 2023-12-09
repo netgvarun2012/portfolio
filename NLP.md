@@ -51,7 +51,7 @@ Before understanding the *embedding* concept, it is key to understand various pr
 
 - **Embeddings**:
   
-![image](https://github.com/netgvarun2012/portfolio/assets/93938450/42801c45-bc3d-42d6-b72c-93d1470d3b1d)
+ ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/42801c45-bc3d-42d6-b72c-93d1470d3b1d)
 
 - Each core feature is embedded into a ‘d’ dimensional space and represented as a vector in that space.
 - The dimension ‘d’ is usually much smaller than the number of features, i.e., each item in a vocabulary of 40,000 items (encoded as 40,000-dimensional one-hot vectors) can be represented as a 100 or 200-dimensional vector.
