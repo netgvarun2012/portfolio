@@ -68,6 +68,9 @@ Before understanding the *embedding* concept, it is key to understand various pr
 
   ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/dd87ee1e-5a15-4a17-9148-edfbecbf8f29)
 
+  ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/f3643bc9-0222-403a-8944-df8e6dc23ab4)
+
+
 
 # AI Basics <a id="AIBasics"></a>
 
