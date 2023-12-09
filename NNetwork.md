@@ -29,4 +29,5 @@ While all of machine learning can be characterized as learning to make predictio
   The method is based on minimizing the error between the actual and desired response at any training step.
   We want to find the augmented weight vector, **w**, that minimizes the *mean squared error (MSE)* between the desired and actual responses of the perceptron.
   The function should be differentiable and have a unique minimum such as below:
+  
                   <img width="146" alt="image" src="https://github.com/netgvarun2012/portfolio/assets/93938450/dec6a3ce-7ee8-4aa1-a066-63d852c82741">
