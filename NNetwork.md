@@ -17,7 +17,7 @@ While all of machine learning can be characterized as learning to make predictio
 
 
 # <ins>Applying the *Gradient Descent* based optimization method to Neural Networks training:</ins>
-- In order for the network to learn i.e. minimize the LOSS function, the loss function needs to be chosen cleverly so that the objective of the classification/regressions task (learning the true distribution of the data) is met.
+- In order for the network to learn i.e. minimize the (LOSS function)[LossActivtion.md], the loss function needs to be chosen cleverly so that the objective of the classification/regressions task (learning the true distribution of the data) is met.
 - The function is actually a representation of a multi-layered network (along with the bias term and non-linear activations) and minimization happens as per the gradient descent algorithm:
   1. Parameter values are randomly initialized.
   2. The **Gradient** of the loss function is taken.
@@ -39,7 +39,7 @@ While all of machine learning can be characterized as learning to make predictio
 
   1) **Parameter Initialization**: The weights and biases of the network are randomly initialized.
 
-  2) **Forward Pass (Compute the Predictions)**: The input data is passed through the network. Each layer of the network applies its weights and biases to the inputs and passes them through an activation function. The final output of this process is the network’s prediction.
+  2) **Forward Pass (Compute the Predictions)**: The input data is passed through the network. Each layer of the network applies its weights and biases to the inputs and passes them through an (activation function)[LossActivtion.md]. The final output of this process is the network’s prediction.
 
   3) **Compute the Loss**: The loss function is computed based on the network’s prediction and the actual target values. This loss represents how well (or poorly) the network is performing.
 
