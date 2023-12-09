@@ -41,6 +41,11 @@ Before understanding the *embedding* concept, it is key to understand various pr
 - **POS Tags**: These represent the *inferred linguistic properties* of words, sentences, and documents. For e.g., we could look at the *part-of-speech* tag (POS) of a word within a document (Is it a noun, a verb, adjective, or a determiner?).
 - **Named-Entity-Recognition**: Knowing that a document contains the word *Paris* is an indication toward the document being in the *TRAVEL* category, and the same holds for the word *Hilton*. Such special words have **NER** tags assigned to them.
 - **One-hot-Encoding**: Each dimension corresponds to a unique feature and the resulting feature vector can be thought of as a combination of high-dimensional indicator vectors in which a single dimension has a value of 1 and all others have a value of 0. For instance, given a vocabulary of 40,000 items, a document of 20 words will be represented by a very sparse 40,000-dimensional vector in which at most 20 dimensions have non-zero values.
+   - Each dimension represent a feature.
+   - Feature combinations receive their own dimensions.
+   - Feature values are binary
+   - Dimensionality is very high.
+   ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/04115cc3-ed9e-4d0f-8e07-93e5c74b7a7e)
 
 - **Embeddings**:
 
