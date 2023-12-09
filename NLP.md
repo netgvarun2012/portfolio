@@ -120,6 +120,20 @@ Here’s how it works:
 
 So, in this setup, the one-hot encoding step is skipped, and words are directly mapped to their integer indices. These indices are used to look up the embeddings in the embedding layer.
 
+#### <ins> Contextual embeddings (trained and used at the same time!) </ins>
+
+1. <ins>**Tokenization**</ins>: The text is broken down into tokens (words or subwords, depending on the model).
+
+2. <ins>**Integer Encoding**</ins>: Each token is mapped to a unique integer, similar to the process I described earlier.
+
+3. <ins>**Model Processing**</ins>: The integer-encoded tokens are input to the pre-trained model, which processes them using layers of transformers (in the case of BERT or GPT) or a combination of convolutional neural networks (CNNs) and long short-term memory (LSTM) networks (in the case of ELMo).
+
+4. <ins>**Output**</ins>: The output is a set of vectors, where each vector corresponds to a token in the input. These vectors are the contextual embeddings. They represent the meaning of each word in the context of the given sentence.
+
+5. <ins>**Sequence Processing**</ins>: The sequence of embeddings is then processed by another part of your model. This could be a Recurrent Neural Network (RNN), a Transformer, or even a simpler model like a Convolutional Neural Network (CNN) or a Feed Forward Neural Network (FFNN). This part of the model is responsible for “understanding” the sequence of embeddings and making a prediction based on them.
+
+6. <ins>**Sentiment Prediction**</ins>: The final layer of your model is a dense layer with one neuron for each sentiment category (e.g., positive, negative, neutral). This layer makes the final sentiment prediction based on the processed embeddings.
+
 # AI Basics <a id="AIBasics"></a>
 
 The above diagram captures the main steps and the flow of the process:
