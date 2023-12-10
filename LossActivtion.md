@@ -26,3 +26,9 @@ Of ACTIVATION FUNCTION.
 
 ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/8031d4a1-d34f-485c-97eb-631e6efe845a)
 
+Various techniques have been proposed to mitigate the vanishing gradient problem, including:
+ - Different weight initialization strategies.
+ - Non-Saturating activation functions (like ReLU).
+ - Batch Normalization.
+ - Architectures like LSTM (Long Short-Term Memory) for recurrent neural networks.
+
