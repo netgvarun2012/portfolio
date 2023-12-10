@@ -43,3 +43,7 @@ Here’s what makes a RNN recurrent: it uses the same weights for each step. Mor
 - W<sub>hh</sub>, used for all h<sub>t-1</sub> -> h<sub>t</sub> links.
 - W<sub>hy</sub>, used for all h<sub>t</sub> -> y<sub>t</sub> links.
    
+
+
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/17fc413f-c1c6-4382-91a6-d4ea95e64b86)
+
