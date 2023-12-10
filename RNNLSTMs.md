@@ -51,6 +51,7 @@ b) The decoder RNN is then used to predict (using a language modeling objective)
 c) The encoder and decoder RNNs are trained jointly. 
 
 ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/14a74e50-354d-49a3-9a6d-43f0b8102921)
+
 ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/6869e15a-3ec8-413a-870b-b5a42ae9c000)
 
 
