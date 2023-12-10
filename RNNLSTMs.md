@@ -47,7 +47,9 @@ Imagine that there is a sequential input to be processed, and some clock which r
 <ins>**Another popular approach takes c to be itself a sequence, most commonly a piece of text. This gives rise to the sequence to *sequence conditioned* generation framework, also called the encoder-decoder framework**</ins>
 
 a) The encoder summarizes the source sentence as a vector c.
+
 b) The decoder RNN is then used to predict (using a language modeling objective) the target sequence words conditioned on the previously predicted words as well as the encoded sentence c. 
+
 c) The encoder and decoder RNNs are trained jointly. 
 
 ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/14a74e50-354d-49a3-9a6d-43f0b8102921)
