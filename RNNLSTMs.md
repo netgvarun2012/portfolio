@@ -4,3 +4,9 @@ While FeedForward netweorks can accomodate arbitrary sized sequences through the
 
 RNNs, particularly ones with gated architectures such as the LSTM and the GRU, are very powerful at capturing statistical regularities in sequential inputs. 
 
+### RNNs
+- One of the most promising theories was suggested by Jordan(1986).
+- Jordan described a network containing recurrent connections.
+- The recurrent connections allow the network's hidden units to see its own previous output, so that the subsequent behaviour can be shaped by previous responses.
+- There recurrent connections are what give the Network **"Memory"**.
+
