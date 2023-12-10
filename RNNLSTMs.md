@@ -56,6 +56,11 @@ c) The encoder and decoder RNNs are trained jointly.
 
 *The encoder extracts a **fixed-length vector representation** from a variable-length input sentence, and from this representation the decoder generates a correct, variable-length target translation.*
 
+- At the core of all these recent works lies an encoder–decoder architecture. 
+- The encoder processes a variable-length input (source sentence) and builds a fixed-length vector representation. 
+- Conditioned on the encoded representation, the decoder generates a variable-length sequence (target sentence).
+
+
 ### <ins>Weight Matrix</ins>
 
 ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/099016cd-edfc-49b4-9b54-a33ed58402f9)
