@@ -20,3 +20,9 @@ Of ACTIVATION FUNCTION.
 - **Gradients** are calculated as the partial derivative of the **Loss Function** w.r.t the **activations**.
 - If the **activations** are too large or too small, the derivative of the **Loss Funciton** will also be large or small respectively, which will cause the **Gradient** to be too large or small respectively.
 - In both cases, the large or small gradients will prevent the model from converging because  the weights will not be updated enough to reach the minimum of the loss function.
+
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/cfd205a8-64c5-4db7-8525-ad8cc9af0e1b)
+
+
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/8031d4a1-d34f-485c-97eb-631e6efe845a)
+
