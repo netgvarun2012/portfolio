@@ -12,6 +12,6 @@
 4) Now, for every word w<sub>i</sub><sup>a</sup> in sentence **a** we compute a vector w<sub>i</sub><sup>b</sup> by performing **weighted-sum** of the words in **b** that are aligned to w<sub>i</sub><sup>a</sup>.
 5) Again, for every word w<sub>j</sub><sup>b</sup> in sentence **b** we compute a vector w<sub>j</sub><sup>a</sup> by performing **weighted-sum** of the words in **a** that are aligned to w<sub>j</sub><sup>b</sup>.
 
-** Such weighted sum representation of a sequence of vectors, where the weights are computed by the **softmax** over scores such as described above are often referred to as **ATTENTION MECHANISM**.
+### Such weighted sum representation of a sequence of vectors, where the weights are computed by the **softmax** over scores such as described above are often referred to as **ATTENTION MECHANISM**.
 
 <img width="955" alt="image" src="https://github.com/netgvarun2012/portfolio/assets/93938450/0534ea67-c242-4f2d-a79f-0991b34858d4">
