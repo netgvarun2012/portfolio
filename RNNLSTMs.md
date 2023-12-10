@@ -56,6 +56,8 @@ c) The encoder and decoder RNNs are trained jointly.
 
 ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/6869e15a-3ec8-413a-870b-b5a42ae9c000)
 
+
+## <ins>Problems with RNN Encoder-Decoder Network</ins>
 *The encoder extracts a **fixed-length vector representation** from a variable-length input sentence, and from this representation the decoder generates a correct, variable-length target translation.*
 
 - At the core of all these recent works lies an encoder–decoder architecture. 
