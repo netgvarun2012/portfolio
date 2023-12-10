@@ -102,11 +102,14 @@ Here’s what makes a RNN recurrent: it uses the same weights for each step. Mor
 ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/17fc413f-c1c6-4382-91a6-d4ea95e64b86)
 
 
-![image](https://github.com/netgvarun2012/portfolio/assets/93938450/51d7eef2-8ad7-448c-b653-e4a036623f4a)
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/51d7eef2-8ad7-448c-b653-e4a036623f4a) 
 
-![image](https://github.com/netgvarun2012/portfolio/assets/93938450/67da2258-c06b-48be-9b71-253cf0d04629)
 
-![image](https://github.com/netgvarun2012/portfolio/assets/93938450/ef856a00-b665-493f-9bb9-54d8923ce7e3)
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/67da2258-c06b-48be-9b71-253cf0d04629) 
+
+
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/ef856a00-b665-493f-9bb9-54d8923ce7e3) 
+
 
 
 
