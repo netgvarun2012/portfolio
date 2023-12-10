@@ -7,6 +7,7 @@ RNNs, particularly ones with gated architectures such as the LSTM and the GRU, a
 ### RNNs
 - One of the most promising theories was suggested by Jordan(1986).
 - Jordan described a network containing recurrent connections.
-- The recurrent connections allow the network's hidden units to see its own previous output, so that the subsequent behaviour can be shaped by previous responses.
+- The recurrent connections allow the network's hidden* units to see its own previous output, so that the subsequent behaviour can be shaped by previous responses.
 - There recurrent connections are what give the Network **"Memory"**.
 
+<ins>Hidden</ins> These units are called *"hidden"* in the sense that they interact exclusively with other nodes internal to the network, and not the outside world!.
