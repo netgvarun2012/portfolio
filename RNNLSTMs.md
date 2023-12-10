@@ -26,4 +26,13 @@ Imagine that there is a sequential input to be processed, and some clock which r
    ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/fa58083d-0276-4ba0-abd1-29cfff838890)
 
 
+#### <ins>Weight Matrix</ins>
+
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/099016cd-edfc-49b4-9b54-a33ed58402f9)
+
+The concept of **weight matrix sharing** in Recurrent Neural Networks (RNNs) primarily revolves around the idea of using the *same set of weights across different time steps or iterations of the network*.
+
+In traditional feedforward neural networks, each layer has its unique set of weights connecting the neurons in one layer to the next. However, in RNNs, weight matrix sharing refers to the reusability of the same weights across multiple time steps. This sharing of weights allows the network to maintain memory and capture temporal dependencies in sequential data.
+
+
    
