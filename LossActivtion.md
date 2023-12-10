@@ -14,7 +14,7 @@ Of ACTIVATION FUNCTION.
 
 ## Vanishing and Exploding Gradients
 
-![image](https://github.com/netgvarun2012/portfolio/assets/93938450/55704f1f-1c1b-4232-b484-0638d9af4b65)
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/774f381f-429f-41fa-abea-1640f9e776ad)
 
 - **Gradients** are used to update the **weights** of the model.
 - **Gradients** are calculated as the partial derivative of the **Loss Function** w.r.t the **activations**.
