@@ -81,7 +81,7 @@ c) The encoder and decoder RNNs are trained jointly.
 
 <img width="131" alt="image" src="https://github.com/netgvarun2012/portfolio/assets/93938450/ee30f177-fc45-45d2-9221-fb38fc4bc21d"> 
 
-
+More info on the [**attention**](attention.md) mechanism.
 
 ### <ins>Weight Matrix</ins>
 
