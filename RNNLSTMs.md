@@ -32,9 +32,8 @@ Imagine that there is a sequential input to be processed, and some clock which r
 ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/7547919c-c829-4086-bda8-44716659035e)
 
 #### <ins> RNN as an ENCODER-DECODER</ins>
-![image](https://github.com/netgvarun2012/portfolio/assets/93938450/7547919c-c829-4086-bda8-44716659035e)
 
-- The **generation framework** generates the next token based on the previously generated tokens.
+- The **generation framework** discussed above, generates the next token based on the previously generated tokens.
 - In the conditioned generation framework, the next token is generated based on the previously generated tokens, and an additional <ins>conditioning context *'c'*</ins>.
 
 **What kind of information can be encoded in the context c?**
@@ -45,7 +44,16 @@ Imagine that there is a sequential input to be processed, and some clock which r
   - We can then control these aspects when generating text.
 
 
-<ins>**Another popular approach takes c to be itself a sequence, most commonly a piece of text. is gives rise to the sequence to *sequence conditioned* generation framework, also called the encoder-decoder framework**</ins>
+<ins>**Another popular approach takes c to be itself a sequence, most commonly a piece of text. This gives rise to the sequence to *sequence conditioned* generation framework, also called the encoder-decoder framework**</ins>
+
+a) The encoder summarizes the source sentence as a vector c.
+b) The decoder RNN is then used to predict (using a language modeling objective) the target sequence words conditioned on the previously predicted words as well as the encoded sentence c. 
+c) The encoder and decoder RNNs are trained jointly. 
+
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/14a74e50-354d-49a3-9a6d-43f0b8102921)
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/6869e15a-3ec8-413a-870b-b5a42ae9c000)
+
+
 
 ### <ins>Weight Matrix</ins>
 
