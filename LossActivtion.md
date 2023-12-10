@@ -11,5 +11,4 @@ Of ACTIVATION FUNCTION.
 
 <img width="387" alt="image" src="https://github.com/netgvarun2012/portfolio/assets/93938450/a683c791-15fd-497a-a80b-d59d7e4c37a0">
 
-![image](https://github.com/netgvarun2012/portfolio/assets/93938450/774f381f-429f-41fa-abea-1640f9e776ad)
 
