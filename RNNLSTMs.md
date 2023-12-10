@@ -20,4 +20,10 @@ Imagine that there is a sequential input to be processed, and some clock which r
 5. Output is compared with a teacher input, and **backpropogation** of error is used to adjust the connection stengths incrementally.
 6. At time step, *t+1*, the above sequence is repeated.
 
+   ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/9fb6d43d-d60c-4359-8ccd-0c8df680f993)
+
+
    ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/fa58083d-0276-4ba0-abd1-29cfff838890)
+
+
+   
