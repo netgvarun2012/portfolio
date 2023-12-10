@@ -28,8 +28,26 @@ Imagine that there is a sequential input to be processed, and some clock which r
       ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/dd877449-da9a-40cb-a835-46e8024a69d2)
 
 
+#### <ins> RNN as a Generator</ins>
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/7547919c-c829-4086-bda8-44716659035e)
 
-#### <ins>Weight Matrix</ins>
+#### <ins> RNN as an ENCODER-DECODER</ins>
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/7547919c-c829-4086-bda8-44716659035e)
+
+- The **generation framework** generates the next token based on the previously generated tokens.
+- In the conditioned generation framework, the next token is generated based on the previously generated tokens, and an additional <ins>conditioning context *'c'*</ins>.
+
+**What kind of information can be encoded in the context c?**
+- Pretty much any data we can put our hands on during training, and that we find useful.
+  - For example, if we have a large corpus of news items categorized into different topics, we can treat the topic as a conditioning context.
+  - Our language model will then be able to generate texts conditioned on the topic.
+  - If we are interested in movie reviews, we can condition the generation on the genre of the movie, the rating of the review, and perhaps the geographic region of the author.
+  - We can then control these aspects when generating text.
+
+
+<ins>**Another popular approach takes c to be itself a sequence, most commonly a piece of text. is gives rise to the sequence to *sequence conditioned* generation framework, also called the encoder-decoder framework**</ins>
+
+### <ins>Weight Matrix</ins>
 
 ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/099016cd-edfc-49b4-9b54-a33ed58402f9)
 
