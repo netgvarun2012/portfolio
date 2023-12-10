@@ -48,3 +48,6 @@ While all of machine learning can be characterized as learning to make predictio
   5) **Update the Parameters**: The weights and biases are updated in the opposite direction of the computed gradients to minimize the loss. This is done using an optimization algorithm like gradient descent.
 
   6) **Repeat**: Steps 2-5 are repeated until the network’s performance is satisfactory.
+
+
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/774f381f-429f-41fa-abea-1640f9e776ad)
