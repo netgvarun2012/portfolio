@@ -30,5 +30,5 @@ Various techniques have been proposed to mitigate the vanishing gradient problem
  - Different weight initialization strategies.
  - Non-Saturating activation functions (like ReLU).
  - Batch Normalization.
- - Architectures like LSTM (Long Short-Term Memory) for recurrent neural networks.
+ - Architectures like [LSTM (Long Short-Term Memory) for recurrent neural networks](RNNLSTMs.md).
 
