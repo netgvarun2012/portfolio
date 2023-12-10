@@ -37,5 +37,9 @@ The concept of **weight matrix sharing** in Recurrent Neural Networks (RNNs) pri
 
 In traditional feedforward neural networks, each layer has its unique set of weights connecting the neurons in one layer to the next. However, in RNNs, weight matrix sharing refers to the reusability of the same weights across multiple time steps. This sharing of weights allows the network to maintain memory and capture temporal dependencies in sequential data.
 
+Here’s what makes a RNN recurrent: it uses the same weights for each step. More specifically, a typical vanilla RNN uses only 3 sets of weights to perform its calculations:
 
+- W<sub>xh</sub>, used for all x<sub>t</sub> -> h<sub>t</sub> links.
+- W<sub>hh</sub>, used for all h<sub>t-1</sub> -> h<sub>t</sub> links.
+- W<sub>hy</sub>, used for all h<sub>t</sub> -> y<sub>t</sub> links.
    
