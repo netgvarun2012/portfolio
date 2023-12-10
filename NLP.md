@@ -180,6 +180,10 @@ The training data is assumed to be constant while weights of a Network are said 
     - Cross Validation
     - Avoiding Overfitting
 
-# Basic NLP Concepts <a id="concepts"></a>
+# How NLP fits in AI <a id="NLPandAI"></a>
+
+# Modelling using RNN, LSTMs <a id ="ModellingBasic"></a>
+
+# Advanced Modelling <a id ="Transformers"></a>
 
 
