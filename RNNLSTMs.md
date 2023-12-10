@@ -72,9 +72,12 @@ c) The encoder and decoder RNNs are trained jointly.
 
 <img width="402" alt="image" src="https://github.com/netgvarun2012/portfolio/assets/93938450/5e56e8c1-6aca-4d66-a943-d986ab2fda74">
 
+
 <img width="407" alt="image" src="https://github.com/netgvarun2012/portfolio/assets/93938450/338eace3-9d81-4e25-872d-af182ed18820">
 
+
 <img width="403" alt="image" src="https://github.com/netgvarun2012/portfolio/assets/93938450/aea70b42-2b1b-4441-bfd7-1de1cc6d65e9">
+
 
 <img width="131" alt="image" src="https://github.com/netgvarun2012/portfolio/assets/93938450/ee30f177-fc45-45d2-9221-fb38fc4bc21d">
 
