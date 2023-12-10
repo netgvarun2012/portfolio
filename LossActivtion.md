@@ -12,3 +12,11 @@ Of ACTIVATION FUNCTION.
 <img width="387" alt="image" src="https://github.com/netgvarun2012/portfolio/assets/93938450/a683c791-15fd-497a-a80b-d59d7e4c37a0">
 
 
+## Vanishing and Exploding Gradients
+
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/55704f1f-1c1b-4232-b484-0638d9af4b65)
+
+- **Gradients** are used to update the **weights** of the model.
+- **Gradients** are calculated as the partial derivative of the **Loss Function** w.r.t the **activations**.
+- If the **activations** are too large or too small, the derivative of the **Loss Funciton** will also be large or small respectively, which will cause the **Gradient** to be too large or small respectively.
+- In both cases, the large or small gradients will prevent the model from converging because  the weights will not be updated enough to reach the minimum of the loss function.
