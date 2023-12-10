@@ -25,7 +25,7 @@ Imagine that there is a sequential input to be processed, and some clock which r
 
    ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/fa58083d-0276-4ba0-abd1-29cfff838890)
 
-      ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/b4d56613-39de-4634-b0c2-a4af76f4ce8b)
+   ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/9a07a544-4804-4bcb-862c-688c9eb8dfa8)
 
 
 
