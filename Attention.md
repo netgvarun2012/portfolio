@@ -16,9 +16,11 @@
 
 <img width="955" alt="image" src="https://github.com/netgvarun2012/portfolio/assets/93938450/0534ea67-c242-4f2d-a79f-0991b34858d4">
 
-<img width="440" alt="image" src="https://github.com/netgvarun2012/portfolio/assets/93938450/469dd303-eb4c-4d82-80f3-fbe48ce462c8">
+<img width="440" alt="image" src="https://github.com/netgvarun2012/portfolio/assets/93938450/469dd303-eb4c-4d82-80f3-fbe48ce462c8"> 
 
 
-<img width="422" alt="image" src="https://github.com/netgvarun2012/portfolio/assets/93938450/c2ced90e-3676-4e23-b688-306e126cfe15">
+
+<img width="422" alt="image" src="https://github.com/netgvarun2012/portfolio/assets/93938450/c2ced90e-3676-4e23-b688-306e126cfe15"> 
+
 
 <img width="413" alt="image" src="https://github.com/netgvarun2012/portfolio/assets/93938450/2961a397-6029-4942-92dd-e39c3e265a9e">
