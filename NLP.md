@@ -2,7 +2,6 @@ NLP is a specialized area in AI that exclusively deals with processing of Natura
 
 # Table of Contents
   * [Basic NLP concepts](#concepts)
-  * [AI Basics](#AIBasics)
   * [How NLP fits in AI](#NLPandAI) 
   * [Modelling using RNN, LSTMs](#ModellingBasic)
   * [Advanced Modelling (Transformers)](#ModellingAdvances)
