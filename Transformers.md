@@ -28,7 +28,16 @@ Despite being so good at what it does, there are certain limitations of seq-2-se
 
    ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/803467ba-99a7-4e40-964d-def7ad0cbb6c)
 
+Once you have summed the **Token Embeddings** and **Positional Embeddings** , you pass the resultant vector to the **Self-Attention** layer:
+  
    ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/ae86fd8f-66db-4030-9772-5f69d67964f7)
+
+The **Self-Attention** layer allows the model to analyze the relationships between inividial input tokens:
+
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/84d35ad8-b426-4d32-a419-779d03ce98ce)
+
+
+   
 
 
 
