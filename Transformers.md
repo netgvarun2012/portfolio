@@ -22,6 +22,11 @@ Despite being so good at what it does, there are certain limitations of seq-2-se
 ## <ins>Transformer Architecture</ins>:
    ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/b2afbbef-bf66-46e9-a1d7-68e63305c033)
 
+   ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/e2950a9a-fa32-4ff4-aadf-7228252bee6b)
+
+
+   
+
 ## <ins>Illustrated Transformer</ins>:
 
    ![transformer_decoding_1](https://github.com/netgvarun2012/portfolio/assets/93938450/9ee74f17-3515-49d1-ad08-ed01ab88cc18)
