@@ -47,7 +47,7 @@ Irrespective of whether the **Quantitative response** variable is continuous or 
 
 However, if response variable can be categorized into certain range or categories like "low","medium", or "high", then Classification method is more suitable.
 
-![image](https://github.com/netgvarun2012/portfolio/assets/93938450/d9d2221f-1445-4aaf-bb08-15c16c03611f)
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/4c7760bf-0706-4337-b6ff-efe05903385d)
 
 ### If *predictor* variable is qualitative , then they need to be properly coded before the analysis is performed.
 
