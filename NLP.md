@@ -134,34 +134,6 @@ So, in this setup, the one-hot encoding step is skipped, and words are directly 
 
 6. <ins>**Sentiment Prediction**</ins>: The final layer of your model is a dense layer with one neuron for each sentiment category (e.g., positive, negative, neutral). This layer makes the final sentiment prediction based on the processed embeddings.
 
-
-# AI Basics <a id="AIBasics"></a>
-
-The training data is assumed to be constant while weights of a Network are said to be variable.
-
-- Machine Learning.
-- Supervised algorithms:
-  - Linear Regression
-  - Logistic Regression
-  - SVM
-  - Decision Tree
-  - K-Nearest Neighbour
-  - Random Forest
-  - XG-Boost
- - UnSupervised algorithms:
-   - CLustering
-      - Agglomerative/Hierarchical
-      - Point Assignment:
-         - K-Means clustering
-      - Density Based
-   - PCA
-   - Autoencoders
-  - Evaluation metrics:
-     - Precision, Recall, Accuracy, ROC AUC Curve, Precision-Recall curve, Confusion matrix.
-  - Training methodologies:
-    - Cross Validation
-    - Avoiding Overfitting
-
 # How NLP fits in AI <a id="NLPandAI"></a>
 
 # Modelling using [RNN, LSTMs](RNNLSTMs.md) <a id="ModellingBasic"></a>
