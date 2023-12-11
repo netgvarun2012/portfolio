@@ -36,6 +36,9 @@ Imagine that there is a sequential input to be processed, and some clock which r
 - The **generation framework** discussed above, generates the next token based on the previously generated tokens.
 - In the conditioned generation framework, the next token is generated based on the previously generated tokens, and an additional <ins>conditioning context *'c'*</ins>.
 
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/8297e391-9f96-4267-8e6a-2e40d24b4dd3)
+
+
 **What kind of information can be encoded in the context c?**
 - Pretty much any data we can put our hands on during training, and that we find useful.
   - For example, if we have a large corpus of news items categorized into different topics, we can treat the topic as a conditioning context.
