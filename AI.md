@@ -33,5 +33,5 @@ The training data is assumed to be constant while weights of a Network are said 
 
 In Machine learning, your data consists of **Dependent** and **Independent** variables which is also known by other names:
 
-![image](https://github.com/netgvarun2012/portfolio/assets/93938450/5af1a05e-06f3-46d6-832c-c6d4c10eebcb)
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/dc842fc3-6376-46d5-a9c0-8e081e6a15a3)
 
