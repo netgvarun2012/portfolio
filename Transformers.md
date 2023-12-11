@@ -24,6 +24,7 @@ Despite being so good at what it does, there are certain limitations of seq-2-se
 
    ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/e2950a9a-fa32-4ff4-aadf-7228252bee6b)
 
+   ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/b85aed51-4772-4d23-86f9-dbee38e0a53f)
 
    
 
