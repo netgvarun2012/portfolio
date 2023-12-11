@@ -67,5 +67,6 @@ However, if response variable can be categorized into certain range or categorie
 
 ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/5115d92b-26f7-46df-a0da-f8d4b29ed9b4)
 
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/901772a5-72b3-4da2-b70f-12d364c0f138)
 
 
