@@ -31,7 +31,7 @@ Imagine that there is a sequential input to be processed, and some clock which r
 #### <ins> RNN as a Generator</ins>
 ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/7547919c-c829-4086-bda8-44716659035e)
 
-#### <ins> RNN as Conditional Generator</ins>
+#### <ins> RNN as a Conditional Generator</ins>
 
 - The **generation framework** discussed above, generates the next token based on the previously generated tokens.
 - In the conditioned generation framework, the next token is generated based on the previously generated tokens, and an additional <ins>conditioning context *'c'*</ins>.
