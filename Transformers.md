@@ -80,5 +80,7 @@ You continue this loop by passing the output token of the model back to the inpu
 
 
 
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/5a0ce439-4e39-4122-9943-015bf3db8878)
+
 
 
