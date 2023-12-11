@@ -51,3 +51,6 @@ However, if response variable can be categorized into certain range or categorie
 
 ### If *predictor* variable is qualitative , then they need to be properly coded before the analysis is performed.
 
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/dc471ce6-4cd8-40a8-913e-3d357274924b)
+
+
