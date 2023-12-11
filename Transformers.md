@@ -32,11 +32,11 @@ Once you have summed the **Token Embeddings** and **Positional Embeddings** , yo
   
    ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/ae86fd8f-66db-4030-9772-5f69d67964f7)
 
-The **Self-Attention** layer allows the model to analyze the relationships between inividial input tokens:
+The **Self-Attention** layer allows the model to analyze the relationships between inividial input tokens to better capture the CONTEXTUAL dependencies between the words:
 
 ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/84d35ad8-b426-4d32-a419-779d03ce98ce)
 
-
+The  **self-attention weights** learnt during training and stored in these layers reflect the importance of each word in that input sequence to all other layers in the sequence.
    
 
 
