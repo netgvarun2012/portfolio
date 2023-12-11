@@ -11,9 +11,9 @@
 ## <ins>Work Experience</ins>
 
 - **2022-2023** - *NUS Computing & Aboitiz Data Innovation*  
-Worked in NUS Computing as NLP Fellow. Developed music based language learning material in form of **Lyrics Generator** involving Generative AI. Published a paper in ACM Journal. Also, worked in **Aboitiz Data Innovation** as a Data Scientist. Worked on development of Speech and Text based Emotion and Personaloty detector.
+Worked in NUS Computing as NLP Fellow. Developed music based language learning material in form of **Lyrics Generator** involving Generative [AI](AI.md). Published a paper in ACM Journal. Also, worked in **Aboitiz Data Innovation** as a Data Scientist. Worked on development of Speech and Text based Emotion and Personaloty detector.
 
-- **2021-2022** - *Textify.AI*  
+- **2021-2022** - *Textify.[AI](AI.md)*  
 Worked as Senior NLP Data Scientist in a startup called Textify.AI. Worked on developing writing and reading assistant application using cutting edge machine learning and deep learning (NLP) technologies.  Worked on developing features such as:
 1. Precitive Writing achieved by prompt based finetuning of GPT Neo LLM.
 2. Grammar Corrector achieved by finetuning T5 LLM model.
@@ -45,7 +45,7 @@ Worked as a Senior Software Engineer in Mahindra Satyam. Role involved developme
    - Grammar Corrector
    - [Essay Grader](https://github.com/netgvarun2012/EssayGrader)
    - Reverse Dictionary
-   - Lyrics Generator Gen AI project
+   - Lyrics Generator Gen [AI](AI.md) project
 5. **Area - [Deep learning](NNetwork.md) and CV:**  
    - [Automatic detection of formula one cars.](https://github.com/netgvarun2012/F1CarClassificationDL)
 7. **Area - Deep Reinforcement learning:**  
@@ -72,7 +72,7 @@ Worked as a Senior Software Engineer in Mahindra Satyam. Role involved developme
 ## <ins>Main Accomplishments</ins>
 ➢ More than a decade overall experience, more than 5 years in Data science.  
 ➢ [Winner of Coveted Outstanding Capstone project award at a ceremony held at Marina Bay Sands, Singapore](https://msba.nus.edu.sg/news/business-analytics-centre-symposium-bacs-2023/)  
-➢ Industry experience in NLP and Generative AI, training LLMs like GPT2, GPT-neo and other GenAI models.  
+➢ Industry experience in NLP and Generative [AI](AI.md), training LLMs like GPT2, GPT-neo and other GenAI models.  
 ➢ Co-authored and submitted research papers:  
   - “KeYric: Unsupervised Keywords Extraction and Expansion from Music for Coherent Lyric Generation” ACM Multimedia Conference in 2023.
   - “Steam Recommendation System using Pyspark and Big data platforms” ArXiv in 2023.
