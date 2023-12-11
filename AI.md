@@ -53,4 +53,13 @@ However, if response variable can be categorized into certain range or categorie
 
 ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/dc471ce6-4cd8-40a8-913e-3d357274924b)
 
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/0d8e98f5-e120-48c6-a6c1-cd5fb79420aa)
+
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/bb6c6f12-dde2-47cb-9bbe-a2a094004f8a)
+
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/e156fb63-5a06-41c3-9a46-69be17009ff2)
+
+
+
+
 
