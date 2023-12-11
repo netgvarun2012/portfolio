@@ -38,7 +38,19 @@ The **Self-Attention** layer allows the model to analyze the relationships betwe
 
 The  **self-attention weights** learnt during training and stored in these layers reflect the importance of each word in that input sequence to all other layers in the sequence.
    
+But this does not happen once! Infact, multiple self-attention weights are learnt in parallel:
 
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/24cfd375-0c5d-4680-8209-5b35d3e93302)
+
+Intuition is that different attemtion maps will learn different aspects of language in the input sequence:
+   
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/95a3f051-e2ad-46d1-8996-32f83f3567d2)
+
+Now that all of the attention weights are applied to your input data, The output is passed to a fully connected FFN network , the output is a probability score for each token in your vocbulary
+
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/00c881f1-e6db-42d1-967a-c6d16e1894f9)
+
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/ef384447-1d7e-4928-a974-18e74bda5ef2)
 
 
 ## <ins>Illustrated Transformer</ins>:
