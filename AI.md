@@ -8,7 +8,7 @@ The training data is assumed to be constant while weights of a Network are said 
 - Regression
 - Algorithms:
   - Linear Regression
-  - Logistic Regression
+  - Logistic Regression 
   - SVM
   - Decision Tree
   - K-Nearest Neighbour
