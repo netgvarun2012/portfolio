@@ -44,4 +44,5 @@ In Machine learning, your data consists of **Dependent** and **Independent** var
 ### If *response* variable is "qualitative - classification" , "quantitative - regression".
 ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/d9d2221f-1445-4aaf-bb08-15c16c03611f)
 
+### If *predictor* variable is qualitative , then they need to be properly coded before the analysis is performed.
 
