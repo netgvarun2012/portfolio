@@ -1,4 +1,4 @@
 # Transformers
 
-![image](https://github.com/netgvarun2012/portfolio/assets/93938450/5657a859-b990-48c4-aa1d-7229df9fdab3)
+![seq2seq](https://github.com/netgvarun2012/portfolio/assets/93938450/9ec8a368-e96b-49d2-88bb-999b82f8212a)
 
