@@ -41,7 +41,7 @@ In Machine learning, your data consists of **Dependent** and **Independent** var
 
 # <ins>Data is of 2 types at High-level</ins>
 
-### If *response* variable is 
+### If *response* variable is qualitative - classification , quantitative - regression.
 ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/d9d2221f-1445-4aaf-bb08-15c16c03611f)
 
 
