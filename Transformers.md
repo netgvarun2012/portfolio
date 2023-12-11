@@ -19,13 +19,17 @@ Despite being so good at what it does, there are certain limitations of seq-2-se
 1. Dealing with long-range dependencies is still challenging.
 2. The sequential nature of the model architecture prevents parallelization. These challenges are addressed by Google Brain’s Transformer concept.
 
+## <ins>Transformer Architecture</ins>
+   ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/b2afbbef-bf66-46e9-a1d7-68e63305c033)
+
+## <ins>Illustrated Transformer</ins>
+
    ![transformer_decoding_1](https://github.com/netgvarun2012/portfolio/assets/93938450/9ee74f17-3515-49d1-ad08-ed01ab88cc18)
 
 
    ![transformer_decoding_2](https://github.com/netgvarun2012/portfolio/assets/93938450/87ca8f2c-9335-452e-bd66-8e0050cb0707)
 
 
-   ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/b2afbbef-bf66-46e9-a1d7-68e63305c033)
 
 
 
