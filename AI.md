@@ -1,4 +1,4 @@
-  * [AI Basics](#AIBasics)
+# AI Basics
 
 The training data is assumed to be constant while weights of a Network are said to be variable.
 
