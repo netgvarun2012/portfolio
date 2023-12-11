@@ -38,3 +38,8 @@ In Machine learning, your data consists of **Dependent** and **Independent** var
 
 ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/8cfa947c-0725-4171-8847-1497ec7e318c)
 
+
+# <ins>Data is of 2 types at High-level</ins>
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/d9d2221f-1445-4aaf-bb08-15c16c03611f)
+
+
