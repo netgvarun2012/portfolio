@@ -31,7 +31,7 @@ Imagine that there is a sequential input to be processed, and some clock which r
 #### <ins> RNN as a Generator</ins>
 ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/7547919c-c829-4086-bda8-44716659035e)
 
-#### <ins> RNN as an ENCODER-DECODER</ins>
+#### <ins> RNN as Conditional Generator</ins>
 
 - The **generation framework** discussed above, generates the next token based on the previously generated tokens.
 - In the conditioned generation framework, the next token is generated based on the previously generated tokens, and an additional <ins>conditioning context *'c'*</ins>.
@@ -46,6 +46,7 @@ Imagine that there is a sequential input to be processed, and some clock which r
   - If we are interested in movie reviews, we can condition the generation on the genre of the movie, the rating of the review, and perhaps the geographic region of the author.
   - We can then control these aspects when generating text.
 
+#### <ins> RNN as an ENCODER-DECODER</ins>
 
 <ins>**Another popular approach takes c to be itself a sequence, most commonly a piece of text. This gives rise to the sequence to *sequence conditioned* generation framework, also called the encoder-decoder framework**</ins>
 
