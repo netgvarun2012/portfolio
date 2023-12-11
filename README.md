@@ -78,7 +78,7 @@ Worked as a Senior Software Engineer in Mahindra Satyam. Role involved developme
   - “Steam Recommendation System using Pyspark and Big data platforms” ArXiv in 2023.
     
 ➢ [NUS-Huawei Innovation Challenge (Finalists) – selected as top 5 teams out of 104 total teams (across Singapore).](https://www.linkedin.com/feed/update/urn:li:activity:7057935075270676480/)  
-➢ Experience in working as part of 8 end-to-end large-scale data-intensive client projects involving production deployments.  
+➢ Experience in working as part of many end-to-end large-scale data-intensive client projects involving production [deployments](deployment.md).  
 ➢ [Kaggle 1X Expert Tier (In top 1%).](https://www.kaggle.com/netgvarun2005).  
 ➢ Exposure to working in 6 different geographies across the world at client site in a consulting role.
 
