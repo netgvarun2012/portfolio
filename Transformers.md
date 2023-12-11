@@ -82,5 +82,22 @@ You continue this loop by passing the output token of the model back to the inpu
 
 ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/905ee35a-d104-408f-a554-a0e9a34ec1aa)
 
+```
+
+# # Load pre-trained BERT model and tokenizer
+model_name = 'bert-base-uncased'
+tokenizer = BertTokenizer.from_pretrained(model_name)
+model = BertForSequenceClassification.from_pretrained(model_name, num_labels=num_labels)
+```
+
+When you load a pre-trained BERT model, it includes several components:
+
+1. <ins>**Embedding Layer**</ins>: This is the first layer of the model, and it’s responsible for converting input tokens into vectors. This layer includes pre-trained embeddings for each token in the BERT tokenizer’s vocabulary.
+
+2. <ins>**Transformer Layers**</ins>: These are the main body of the model. They take the vectors from the embedding layer and transform them through a series of self-attention mechanisms and feed-forward networks. The weights in these layers are also pre-trained.
+
+3. <ins>**Classification Layer**</ins>: This is the final layer of the model, and it’s responsible for making predictions based on the output of the Transformer layers. In the BertForSequenceClassification model, this is a simple linear layer that outputs a logit for each class in your classification task.
+
+So, when you load a pre-trained BERT model, you’re actually loading pre-trained embeddings along with pre-trained Transformer layers. These components are then fine-tuned on your specific task (sentiment analysis in this case).
 
 
