@@ -25,4 +25,7 @@ Despite being so good at what it does, there are certain limitations of seq-2-se
    ![transformer_decoding_2](https://github.com/netgvarun2012/portfolio/assets/93938450/87ca8f2c-9335-452e-bd66-8e0050cb0707)
 
 
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/b2afbbef-bf66-46e9-a1d7-68e63305c033)
+
+
 
