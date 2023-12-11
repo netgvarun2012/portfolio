@@ -52,9 +52,23 @@ Intuition is that different attemtion maps will learn different aspects of langu
 
 Now that all of the attention weights are applied to your input data, The output is passed to a fully connected FFN network , the output is a probability score for each token in your vocbulary
 
+The data that leaves the eoncoder is a deep representation of the structure and the meaning of the sequence.
+
 ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/00c881f1-e6db-42d1-967a-c6d16e1894f9)
 
 ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/ef384447-1d7e-4928-a974-18e74bda5ef2)
+
+This deep representation is inserted into the niddle of the Decoder to influence the decoder's self-attention mechanism.
+
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/4973d750-4409-4d79-bdf9-c474e54fff9d)
+
+Then, a *start-of-sequence* special token is added to the input of the Decoder which triggers the Decoder to predict the next token which it does based on the contextual understanding that has been provided from the Encoder,
+
+The output of the Decoder self-attention layer is passed through the Decoder's FFN and through the final SOFTMAX output layer.  At this point, we have our first token.
+
+You continue this loop by passing the output token of the model back to the input to trigger the next token untill *end-of-sequence* token is received.
+
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/69728236-ca3a-4bd7-937c-c996390a8b5b)
 
 
 ## <ins>Illustrated Transformer</ins>:
