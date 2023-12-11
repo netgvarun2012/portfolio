@@ -182,8 +182,8 @@ The training data is assumed to be constant while weights of a Network are said 
 
 # How NLP fits in AI <a id="NLPandAI"></a>
 
-# Modelling using [RNN, LSTMs](RNNLSTMs.md) <a id ="ModellingBasic"></a>
+# Modelling using [RNN, LSTMs](RNNLSTMs.md) <a id="ModellingBasic"></a>
 
-# Advanced Modelling [Transformers](Transformers.md) <a id ="ModellingAdvances"></a>
+# Advanced Modelling [Transformers](Transformers.md) <a id="ModellingAdvances"></a>
 
 
