@@ -28,6 +28,9 @@ Despite being so good at what it does, there are certain limitations of seq-2-se
 
    ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/803467ba-99a7-4e40-964d-def7ad0cbb6c)
 
+   ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/ae86fd8f-66db-4030-9772-5f69d67964f7)
+
+
 
 ## <ins>Illustrated Transformer</ins>:
 
