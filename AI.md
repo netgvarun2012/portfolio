@@ -42,6 +42,10 @@ In Machine learning, your data consists of **Dependent** and **Independent** var
 # <ins>Data is of 2 types at High-level</ins>
 
 ### If *response* variable is "qualitative - classification" , "quantitative - regression".
+
+Irrespective of whether the **Quantitative response** variable is continuous or discrete, regression method is more applicable. Such as, "number of cars". 
+
+However, if response variable can be categorized into certain range or categories like "low","medium", or "high", then Classification method is more suitable.
 ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/d9d2221f-1445-4aaf-bb08-15c16c03611f)
 
 ### If *predictor* variable is qualitative , then they need to be properly coded before the analysis is performed.
