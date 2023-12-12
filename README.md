@@ -46,12 +46,12 @@
     - Role involved development of billing and analytics softwate for large telecom clients.
     - Worked on **Machine learning** prototype use cases for Telcos such as Churn prediction, Invoice amount anomaly detection, rate plan optimization.
 
- - **2010-2013** - *Ness Technologies*
+ - **2010-2013** - *Ness Technologies* **Senior Software Engineer**
     - Worked as a Senior Software Engineer in Ness Technologies.
     - Role involved development and supporting of Oracle Biling and Revenue Management product.
     - Writing code in C, C++, Python, Shell, Perl to implement requirements for Telecom Billing clients and handling Production support.
 
- - **2008-2010** - *Mahindra Satyam*
+ - **2008-2010** - *Mahindra Satyam*  **Senior Software Engineer**
     - Worked as a Senior Software Engineer in Mahindra Satyam.
     - Role involved development on Oracle Biling and Revenue Management suite.
     - Writing code in C, C++, Python, Shell, Perl to implement requirements for Telecom Billing clients.
