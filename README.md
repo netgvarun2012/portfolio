@@ -10,29 +10,51 @@
 
 ## <ins>Work Experience</ins>
 
-- **2022-2023** - *NUS Computing & Aboitiz Data Innovation*  
-Worked in NUS Computing as NLP Fellow. Developed music based language learning material in form of **Lyrics Generator** involving Generative [AI](AI.md). Published a paper in ACM Journal. Also, worked in **Aboitiz Data Innovation** as a Data Scientist. Worked on development of Speech and Text based Emotion and Personaloty detector.
+- **2022-2023**
+  - *Aboitiz Data Innovation*  **Data Scientist**
+    - Worked on *Speech Emotion Recognition(SER)* problem and developed a Multi-Modal (text and speech) based model for detecting Emotions and Personality from Raw audio snippets.
+    - Published a paper on it.
+    - Won the Outstanding Capstone project award at MBS event orgaized by NUS.
+    - Tech Stack : Generative AI, Deep learning, Speech processing, PyTorch, DataBricks, Huggingface, Python, Streamlit and others.
 
-- **2021-2022** - *Textify.[AI](AI.md)*  
-Worked as Senior NLP Data Scientist in a startup called Textify.AI. Worked on developing writing and reading assistant application using cutting edge machine learning and deep learning (NLP) technologies.  Worked on developing features such as:
-1. Precitive Writing achieved by prompt based finetuning of GPT Neo LLM.
-2. Grammar Corrector achieved by finetuning T5 LLM model.
-3. Essay Grader using deep learning techniques.
-4. Reverse Dictionary using deep learning involving LSTM and RNNs.
+  - *NUS Computing* **NLP Fellow**
+    - Worked in NUS Computing as NLP Fellow.
+    - Developed music based language learning material in form of **Lyrics Generator** involving Generative [AI](AI.md).
+    - Published a paper in ACM Journal.
+    - Tech Stack : Deep learning, NLP keyword extraction, finetuning Transformer model, Generative AI, PyTorch, python and others. 
+
+
+ - **2021-2022** - *Textify.[AI](AI.md)*  **Senior NLP Data Scientist**
+    - Worked as Senior NLP Data Scientist in a startup called Textify.AI.
+    - Worked on developing writing and reading assistant application using cutting edge machine learning and deep learning (NLP) technologies.
+    - Worked on developing features such as:
+      1. Precitive Writing achieved by prompt based finetuning of GPT Neo LLM.
+      2. Grammar Corrector achieved by finetuning T5 LLM model.
+      3. Essay Grader using deep learning techniques.
+      4. Reverse Dictionary using deep learning involving LSTM and RNNs.
   
-  Stack : Pytorch, AWS, Flask, Github.
+    - Tech Stack : PyTorch, AWS, FastAPI,Python, Github, GenAI.
 
-- **2016-2021** - *CSG International*  
-Worked as an Associate Architect in CSG Internatioanl Systems. Role involved development on CSG's singleview product for large scale telecom operators like MTN South Africa, Three UK, MTC Namibia. Played role of scrum master, architect and developer. Largely worked on C++, Python, java.
+ - **2016-2021** - *CSG International*  **Associate Solutions Architect**
+    - Worked as an Associate Architect in CSG Internatioanl Systems.
+    - Role involved development on CSG's singleview product for large scale telecom operators like MTN South Africa, Three UK, MTC Namibia.
+    - Played role of scrum master, architect and developer.
+    - Largely worked on C, Python,Linux scripting,Perl, and Java.
 
-- **2013-2016** - *Oracle Corporation*  
-Worked as a Senior Consultant in Oracle Corp. Role involved development of billing and analytics softwate for large telecom clients. Worked on Machine learning use cases for Telcos such as Churn prediction, Invoice amount anomaly detection, rate plan optimization.
+ - **2013-2016** - *Oracle Corporation*  **Senior Consultant**
+    - Worked as a Senior Consultant in Oracle Corp.
+    - Role involved development of billing and analytics softwate for large telecom clients.
+    - Worked on **Machine learning** prototype use cases for Telcos such as Churn prediction, Invoice amount anomaly detection, rate plan optimization.
 
-- **2010-2013** - *Ness Technologies*  
-Worked as a Senior Software Engineer in Ness Technologies. Role involved development and supporting of Oracle Biling and Revenue Management product. Writing code in C, C++, Python, Shell, Perl to implement requirements for Telecom Billing clients and handling Production support.
+ - **2010-2013** - *Ness Technologies*
+    - Worked as a Senior Software Engineer in Ness Technologies.
+    - Role involved development and supporting of Oracle Biling and Revenue Management product.
+    - Writing code in C, C++, Python, Shell, Perl to implement requirements for Telecom Billing clients and handling Production support.
 
-- **2008-2010** - *Mahindra Satyam*  
-Worked as a Senior Software Engineer in Mahindra Satyam. Role involved development on Oracle Biling and Revenue Management suite. Writing code in C, C++, Python, Shell, Perl to implement requirements for Telecom Billing clients.
+ - **2008-2010** - *Mahindra Satyam*
+    - Worked as a Senior Software Engineer in Mahindra Satyam.
+    - Role involved development on Oracle Biling and Revenue Management suite.
+    - Writing code in C, C++, Python, Shell, Perl to implement requirements for Telecom Billing clients.
 
 ## <ins>Key Projects</ins>
 1. **Area - [Deep learning](NNetwork.md) and Speech processing:**  
