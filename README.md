@@ -91,8 +91,9 @@
     - Production scripts.
     
 ## <ins>Published Papers</ins>
-[Speech and Text Based MultiModal Emotion Recognizer](https://arxiv.org/abs/2312.11503)
-[Steam Games Big Data Recommendation System](https://arxiv.org/abs/2305.04890)
+- [Speech and Text Based MultiModal Emotion Recognizer](https://arxiv.org/abs/2312.11503)
+
+- [Steam Games Big Data Recommendation System](https://arxiv.org/abs/2305.04890)
 
 ## <ins>Main Accomplishments</ins>
 ➢ More than a decade overall experience, more than 5 years in Data science.  
