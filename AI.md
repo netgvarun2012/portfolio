@@ -73,5 +73,7 @@ However, if response variable can be categorized into certain range or categorie
 
 
 
-![ezgif com-animated-gif-maker (1)](https://github.com/netgvarun2012/portfolio/assets/93938450/17498b77-24ff-4fbf-a8b3-36247dd43b95)
+
+
+![ezgif com-animated-gif-maker (2)](https://github.com/netgvarun2012/portfolio/assets/93938450/f3c10c42-e60a-4397-830f-f5a17edd81a6)
 
