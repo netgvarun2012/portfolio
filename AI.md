@@ -81,3 +81,12 @@ However, if response variable can be categorized into certain range or categorie
 
 https://www.youtube.com/watch?v=tFWsuO9f74o
 
+
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/32e448ff-b041-40ee-86f6-99dfaf6f92f1)
+
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/0bfedb46-142e-4580-83a0-4f775e8c559a)
+
+
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/3c8c9891-50ca-4db0-a29e-cf786b2f1c1e)
+
+
