@@ -119,3 +119,5 @@ Here’s what makes a RNN recurrent: it uses the same weights for each step. Mor
 - LSTMs are a variant of RNNs that try to improve this problem by introducing a more complex architecture that enables **additive relationships between gradients instead of multiplicative ones**, which are the culprit of the vanishing gradient problem.
 - LSTMs also have a gating mechanism that allows them to selectively forget or remember information from previous time steps, which helps them to capture long-term dependencies more effectively.
 
+
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/69bc8a43-dc33-4500-ad7b-cd06d7567a71)
