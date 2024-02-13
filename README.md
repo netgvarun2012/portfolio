@@ -18,7 +18,8 @@
 
   - *NUS Computing* **NLP Fellow**
     - Worked in NUS Computing as NLP Fellow.
-    - Developed music based language learning material in form of **Lyrics Generator** involving Generative [AI](AI.md).
+    - Developed music based language learning material in form of [**Lyrics Generator**](LyricsGenerator.md) project
+ involving Generative [AI](AI.md).
     - Published a paper in ACM Journal.
     - Tech Stack : Deep learning, NLP keyword extraction, finetuning Transformer model, Generative AI, PyTorch, python and others. 
 
