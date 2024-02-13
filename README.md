@@ -1,4 +1,4 @@
-# Data Scientist 
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/ba32b7e3-73d0-4188-8491-a6fa6e5d0199)# Data Scientist 
 
 *A passionate Software Engineer turned Data Scientist with close to 15 years of work experience.*
 
@@ -67,7 +67,7 @@
    - Grammar Corrector
    - [Essay Grader](https://github.com/netgvarun2012/EssayGrader)
    - Reverse Dictionary
-   - Lyrics Generator Gen [AI](AI.md) project
+   - [Lyrics Generator](LyricsGenerator.md) Gen [AI](AI.md) project
 5. **Area - [Deep learning](NNetwork.md) and CV:**  
    - [Automatic detection of formula one cars.](https://github.com/netgvarun2012/F1CarClassificationDL)
 7. **Area - Deep Reinforcement learning:**  
