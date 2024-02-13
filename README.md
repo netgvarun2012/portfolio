@@ -1,4 +1,3 @@
-![image](https://github.com/netgvarun2012/portfolio/assets/93938450/ba32b7e3-73d0-4188-8491-a6fa6e5d0199)# Data Scientist 
 
 *A passionate Software Engineer turned Data Scientist with close to 15 years of work experience.*
 
