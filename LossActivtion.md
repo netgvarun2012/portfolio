@@ -32,3 +32,8 @@ Various techniques have been proposed to mitigate the vanishing gradient problem
  - Batch Normalization.
  - Architectures like [LSTM (Long Short-Term Memory) for recurrent neural networks](RNNLSTMs.md).
 
+
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/302f3100-f6e6-4992-8301-d17143f232e5)
+
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/48af62ed-ab44-461f-bcbd-0da2f98df75f)
+
