@@ -9,6 +9,8 @@ We thus need to represent an unbounded number of features using a fixed-size vec
 
 ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/7c9ac59f-3297-4522-9889-7179ddfdbb94)
 
+# This is how using CBOW, variable length inputs can be processed!
+
 *So, the idea of CBOW is to learn word embeddings by treating them as parameters in the network.*
 
    <ins>How these **"pre-trained embeddings"** are obtained?</ins>:
