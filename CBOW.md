@@ -1,4 +1,4 @@
-#CBOW
+# CBOW
 ![image](https://github.com/netgvarun2012/portfolio/assets/93938450/7c9ac59f-3297-4522-9889-7179ddfdbb94)
 
 
