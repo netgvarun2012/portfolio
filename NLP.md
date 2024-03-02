@@ -105,6 +105,14 @@ Pre-trained word embeddings can be very useful for a sentiment analysis task. He
 
 4. <ins>**Train your model**</ins>: Now that your text data is represented as fixed-size vectors, you can input these vectors into your model. You’ll train your model to predict the sentiment label given the input vector.
 
+<img width="643" alt="image" src="https://github.com/netgvarun2012/portfolio/assets/93938450/4918f723-12dc-4075-92dd-5e3b60b48dbf">
+
+<img width="679" alt="image" src="https://github.com/netgvarun2012/portfolio/assets/93938450/a2af6e3c-18a9-48d8-861f-4fad1dfdea7c">
+
+
+
+
+
 #### <ins>How to use pre-trained embeddings for **Sentiment Analysis** task? (with embedding layer)</ins>
 
 When you have an embedding layer as part of your model, the input to the model is typically the integer-encoded representation of your text data, not the one-hot encoded vectors.
