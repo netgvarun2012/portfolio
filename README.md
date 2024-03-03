@@ -110,7 +110,7 @@
 
 ## <ins>Contributory articles/posts</ins>
 1. [Huawei AI Competition](https://www.linkedin.com/feed/update/urn:li:activity:7057935075270676480/)
-2. [Convolitions in CNN](https://www.linkedin.com/feed/update/urn:li:activity:7077631328346673152/)
+2. [Convolutions in CNN](https://www.linkedin.com/feed/update/urn:li:activity:7077631328346673152/)
 3. [Predictive Writing](https://www.linkedin.com/posts/sharmavaruncs_predictive-writing-using-gpt-transformer-activity-6955527056147324929-EaSp?utm_source=share&utm_medium=member_desktop)
 4. [LLM technical aspects](https://www.linkedin.com/posts/sharmavaruncs_demystifying-language-models-activity-6953751564855508992-7rI-?utm_source=share&utm_medium=member_desktop)
 5. [Big Data Processing using Pyspark](https://medium.com/@sharmavarun.cs/power-of-tf-idf-demonstrated-using-pyspark-on-arxiv-dataset-6e12d27c0692)
