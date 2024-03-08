@@ -109,7 +109,8 @@ Pre-trained word embeddings can be very useful for a sentiment analysis task. He
 
 <img width="679" alt="image" src="https://github.com/netgvarun2012/portfolio/assets/93938450/a2af6e3c-18a9-48d8-861f-4fad1dfdea7c">
 
-
+## Below example shows using "SUM" operation instead of averaging (MEAN) operation:
+![image](https://github.com/netgvarun2012/portfolio/assets/93938450/b485daba-76e8-4b0f-a859-df9b4bcffdcb)
 
 
 
