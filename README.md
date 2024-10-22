@@ -11,10 +11,10 @@
 
 - **2024-Present**
    - *ST Engineering* **Senior CyberSecurity AI Scientist**
-    - Worked on AI security research with an objective to make AI models more secure and Robust.
-    - Devised a novel defense approach called **Code Mutation based Triggers Detector (CMTD)** to detect backdoor triggers in poisoned datasets and models (specifically Code LLMs).
-    - Published a research paper on it.
-    - Devised a novel AI explainability based approach to analyze Jail Break Attacks on Large Vision Language Models (LVLMs) which accepts both image and text as inputs.
+     - Worked on AI security research with an objective to make AI models more secure and Robust.
+     - Devised a novel defense approach called **Code Mutation based Triggers Detector (CMTD)** to detect backdoor triggers in poisoned datasets and models (specifically Code LLMs).
+     - Published a research paper on it.
+     - Devised a novel AI explainability based approach to analyze Jail Break Attacks on Large Vision Language Models (LVLMs) which accepts both image and text as inputs.
 - **2022-2023**
   - *Aboitiz Data Innovation*  **Data Scientist**
     - Worked on *Speech Emotion Recognition(SER)* problem and developed a Multi-Modal (text and speech) based model for detecting Emotions and Personality from Raw audio snippets.
